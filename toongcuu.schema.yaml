@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id toongcuu
   name: 通古羅馬字
-  version: "0.1"
+  version: "0.2"
   author:
     - Baopaau <baopaau@gmail.com>
   description: |
@@ -64,20 +64,24 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
+    # 替代云母三等合口
+    - derive/^h[yi]u([^uhnm])/w$1/
     # 輕脣非組聲母替代
-    - derive/^[bp]i(u?[ao])/f$1/
-    - derive/^bhi(u?[ao])/fv$1/
-    - derive/^mi(u?[ao])/v$1/
+    - derive/^[bp]iu?([ao])/f$1/
+    - derive/^bhiu?([ao])/fv$1/
+    - derive/^miu?([ao])/v$1/
+    - derive/^[bp]iu([^ao]|$)/fu$1/
+    - derive/^bhiu([^ao]|$)/fvu$1/
+    - derive/^miu([^ao]|$)/vu$1/
     # 忽略聲調
     - derive/h$//
     - derive/([nm])\1$/$1/
-    - derive/([aoeui])\1(|[nm])$/$1$2/
-    - derive/([aoeu])[ey]$/$1i/
     - derive/([aoeui])[gq]$/$1ng/
     # 簡拼
     - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([bpmfvdtnlczsjckgqxhyw]?[hryvsz]y?).+$/$1/
-    #- abbrev/^([a-z]{2}).+$/$1/
+    #- abbrev/^([bpmfvdtnlczsjckgqxhyw]?[hryvsz]y?).+$/$1/
+    - abbrev/^([a-z]{2}).+$/$1/
+    - abbrev/^([a-z]{3}).+$/$1/
 
 translator:
   dictionary: toongcuu
@@ -85,6 +89,9 @@ translator:
   spelling_hints: 7
   #initial_quality: 1
   comment_format: &comment
+  preedit_format:
+    # 附加零寬空格，當提示碼與上屏碼完全匹配時亦能顯示
+    - xform/^(.*)$/$1​/
 
 this_translator:
   tag: this_translator
