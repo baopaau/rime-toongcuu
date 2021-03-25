@@ -28,7 +28,7 @@
 
 ---
 name: toongcuu
-version: "0.1"
+version: "0.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -172,7 +172,7 @@ use_preset_vocabulary: true
 晻	oom
 罯	oom
 罯	op
-
+銨	aan
 㜝	qoom
 𤃷	iiim
 𤃷	oom
@@ -357,7 +357,7 @@ use_preset_vocabulary: true
 靶	beah
 𢑦	zheu
 弝	beah
-
+爸	bhaa
 𥝧	bheah
 垻	beah
 𦫙	bheah
@@ -376,7 +376,7 @@ use_preset_vocabulary: true
 欛	beah
 吧	pea	2%
 吧	bea
-
+掰	baei
 掰	baec
 䪹	pyi
 白	bheac
@@ -446,7 +446,7 @@ use_preset_vocabulary: true
 䬳	buaan
 蝂	beaan
 魬	bheaan
-
+闆	paaen
 闆	beaan
 半	buann
 𠯘	buann
@@ -616,7 +616,7 @@ use_preset_vocabulary: true
 背	buoy
 𤰇	bhyih
 俻	bhyih
-
+倍	booi
 狽	bay
 悖	bhuoy	10%
 悖	bhuot
@@ -628,8 +628,8 @@ use_preset_vocabulary: true
 琲	bhuooi
 備	bhyih
 焙	bhuoy
-
-
+蓓	booi
+碚	booi
 㻗	bhuoy
 𢞎	bhaey
 𢞎	bhaae
@@ -717,7 +717,7 @@ use_preset_vocabulary: true
 皀	cyip
 皀	bioc
 皀	byip
-
+屄	bi
 悂	bei
 悂	pi
 偪	bioc
@@ -1112,7 +1112,7 @@ use_preset_vocabulary: true
 𩽁	byeu
 驫	bieu
 驫	byiu
-
+嫑	biew
 表	byeeu
 𧘝	byeeu
 婊	byeeu
@@ -1444,7 +1444,7 @@ use_preset_vocabulary: true
 𪇰	buc
 不	biou	2%
 不	bioou	2%
-
+不	buot	0%
 不	biut
 布	buh
 步	bhuh
@@ -1493,7 +1493,7 @@ use_preset_vocabulary: true
 䌨	tsat
 礤	tsat
 遪	tsop
-
+遪	zhop
 䵽	tsap
 𣞖	tsay
 𥗭	tsap
@@ -1743,18 +1743,18 @@ use_preset_vocabulary: true
 察	traet
 褨	saa
 𣘤	traet
-
+𦑣	tyuap
 䕓	traet
 檫	traet
-
+衩	tseah
 衩	traeh
 鑔	traet
-
+汊	tseah
 奼	tyeaa
 奼	duh
 奼	dyeah
-
-
+岔	tseah
+𥘓	tseah
 侘	tyea
 侘	tyeah
 刹	treat
@@ -1766,10 +1766,10 @@ use_preset_vocabulary: true
 㤞	dhac
 姹	tyeah
 姹	tyeaa
-
+䟕	tseah
 䓭	treat
 詫	tyeah
-
+𧫗	tseah
 𥃐	tyaep
 𩴳	traet
 𪙻	traet
@@ -1830,7 +1830,7 @@ use_preset_vocabulary: true
 孱	jraen
 孱	jraaen
 孱	jren
-
+𡎻	dzaen
 𡎻	jren
 𤊸	biut
 僝	jraen
@@ -1931,7 +1931,7 @@ use_preset_vocabulary: true
 繟	dhan
 䩶	tyig
 䩶	tyeen
-
+𠑆	tyuaam
 鏟	treann
 鏟	traaen
 𦆀	cheen
@@ -1946,7 +1946,7 @@ use_preset_vocabulary: true
 灛	cheen
 䤘	tsieem
 䤘	traaem
-
+𨇧	tyuaam
 剗	traaen
 䀡	dem
 䀡	demm
@@ -2194,9 +2194,9 @@ use_preset_vocabulary: true
 趁	dhyin
 趁	nyeen
 趁	tyinn
-
+齓	tryyn
 齔	trynn
-
+齔	tryyn
 儭	tsinn
 儭	trynn
 嚫	trynn
@@ -2448,11 +2448,11 @@ use_preset_vocabulary: true
 瘛	chey
 瘛	chet
 瘛	hey
-
+𥛚	tyaec
 翨	cieh
 翨	sheh
 𧼪	tyey
-
+𥱻	tyaey
 𢨒	chyh
 熾	chyh
 𦥊	tyh
@@ -2464,7 +2464,7 @@ use_preset_vocabulary: true
 䠠	dey
 懘	chey
 懘	chee
-
+𣤩	tyaec
 饎	chyh
 鷘	tyoc
 𦔫	choc
@@ -2727,7 +2727,7 @@ use_preset_vocabulary: true
 矗	tyooc
 𪇆	dhooc
 欻	xiut
-
+㔍	tret
 㔍	troat
 𤁫	tyoat
 䊬	tyoaa
@@ -2747,7 +2747,7 @@ use_preset_vocabulary: true
 踹	duann
 踹	zhueen
 膪	dyeah
-
+膪	dyoeh
 䴝	troay
 川	chuen
 巛	kuon
@@ -3134,9 +3134,9 @@ use_preset_vocabulary: true
 𪓰	tsiou
 𪓵	tsiou
 𥷛	ziooc
-
-
-
+汆	tsuan
+攛	tsuan
+躥	tsuan
 躥	tsuann
 鑹	tsuann
 攅	zann	5%
@@ -3148,9 +3148,9 @@ use_preset_vocabulary: true
 巑	dzuan
 殩	tsuann
 篡	troann
-
+竄	tsuan
 竄	tsuann
-
+爨	tsuan
 爨	tsuann
 崔	tsuoi
 崔	dzuoi	1%
@@ -3339,7 +3339,7 @@ use_preset_vocabulary: true
 㜓	dop
 靼	jet	5%
 靼	dat
-
+𧨍	xeei
 瘩	dop
 㩉	lop
 㩉	dap
@@ -3352,7 +3352,7 @@ use_preset_vocabulary: true
 𩍕	jet
 龖	dhop
 打	deg	5%
-
+打	deag
 大	dhay
 大	dhah	5%
 汏	dhay
@@ -3824,7 +3824,7 @@ use_preset_vocabulary: true
 諦	dey
 螮	dey
 𧫚	dhey
-
+嗲	diiaa
 敁	dem
 掂	dem
 𦕒	dem
@@ -4081,9 +4081,9 @@ use_preset_vocabulary: true
 錠	dheq
 錠	deq
 顁	deq
-
-
-
+丟	diiu
+丢	diiu
+銩	diiu
 冬	dung
 苳	dung
 東	doong
@@ -4262,7 +4262,7 @@ use_preset_vocabulary: true
 韇	dhooc
 黷	dhooc
 讟	dhooc
-
+厾	diiu
 堵	jyaa	1%
 堵	duu	99%
 帾	duu
@@ -4389,7 +4389,7 @@ use_preset_vocabulary: true
 鐓	dhuoy
 驐	duon
 盹	juinn
-
+躉	duoon
 沌	dhyueen
 沌	dhuon
 沌	dhuoon
@@ -4722,7 +4722,7 @@ use_preset_vocabulary: true
 乏	bhiuap
 伐	bhiuat
 姂	bhiuap
-
+姂	kiuap
 姂	piuamm
 茷	bhiuay
 茷	bhiuat
@@ -4914,7 +4914,7 @@ use_preset_vocabulary: true
 菲	piuoi
 菲	piuooi	5%
 婓	piuoi
-
+啡	pooi
 婔	hiuoi
 猆	biuoi
 扉	biuoi
@@ -4951,7 +4951,7 @@ use_preset_vocabulary: true
 蟦	bhiuoy
 蟦	bhiuooi
 胇	bhyit
-
+朏	pooi
 朏	puoy
 朏	piuooi
 胐	kuot
@@ -5200,7 +5200,7 @@ use_preset_vocabulary: true
 缶	bioou
 否	bhyii	30%
 否	bioou
-
+𡜊	poi
 𡜊	bioou
 缻	heong
 缹	bioou
@@ -5891,7 +5891,7 @@ use_preset_vocabulary: true
 𥰮	caa
 个	cah
 各	cac
-
+虼	cot
 個	cah
 硌	lac
 箇	cah
@@ -7398,10 +7398,10 @@ use_preset_vocabulary: true
 𩿇	huu
 擭	huh
 擭	huac
-
+擭	iiuac
 濩	huh
 濩	huac
-
+濩	iiuac
 𧹲	xooc
 簄	huu
 鍙	xooc
@@ -7415,7 +7415,7 @@ use_preset_vocabulary: true
 𪄮	huu
 頀	huh
 䪝	oac
-
+䪝	iiuac
 鸌	uac
 鱯	huh
 鱯	hoah
@@ -8189,7 +8189,7 @@ use_preset_vocabulary: true
 湒	zip
 趌	gyit
 趌	kit
-
+趌	cyet
 趌	cit
 塉	dzic
 蒺	dzit
@@ -9069,7 +9069,7 @@ use_preset_vocabulary: true
 揭	kyey
 揭	kyet
 揭	ciat
-
+揭	cyet
 椄	ziep
 喈	caei
 嗟	zya
@@ -9094,7 +9094,7 @@ use_preset_vocabulary: true
 鶛	caei
 䕸	haet
 䕸	caei
-
+孑	cyet
 尐	ziet
 𢎛	zet
 𡴺	zet
@@ -9123,11 +9123,11 @@ use_preset_vocabulary: true
 桀	gyet
 訐	ciat
 訐	cyey
-
+訐	cyet
 捷	dziep
 㼪	zep
 崨	dziep
-
+𨥂	cyet
 袺	cet
 袺	caet
 婕	ziep
@@ -9160,7 +9160,7 @@ use_preset_vocabulary: true
 碣	giat
 碣	gyet
 䅥	kat
-
+䅥	cyet
 竭	giat
 竭	gyet
 𢧵	dzet
@@ -9840,7 +9840,7 @@ use_preset_vocabulary: true
 勬	cyuen
 勬	cyuenn
 鋗	xuen
-
+鋑	tsuan
 鋑	ziuen
 鞙	hueen
 鞙	cuen
@@ -9931,7 +9931,7 @@ use_preset_vocabulary: true
 抉	cuet
 抉	uet
 芵	cuet
-
+吷	xyuet
 𧮫	giac
 決	xuet	2%
 決	cuet
@@ -10411,7 +10411,7 @@ use_preset_vocabulary: true
 墾	koon
 懇	koon
 硍	haaen
-
+裉	konn
 劥	keang
 阬	kaq
 阬	keang
@@ -10875,7 +10875,7 @@ use_preset_vocabulary: true
 𦒆	lop
 邋	lap
 邋	liep
-
+旯	lea
 剌	lat
 砬	lip
 喇	lat
@@ -11713,7 +11713,7 @@ use_preset_vocabulary: true
 兩	liag	99%
 㔝	liag
 倆	liag
-
+倆	lyaa
 掚	liag
 䓣	liag
 𣓈	liag
@@ -13083,7 +13083,7 @@ use_preset_vocabulary: true
 莓	miow
 莓	muoi
 莓	muoy
-
+脄	moy
 脄	muoi
 梅	muoi
 脢	muoi
@@ -13126,15 +13126,15 @@ use_preset_vocabulary: true
 美	myii
 挴	muooi
 浼	muooi
-
+𢮇	mooi
 渼	myii
 媄	myii
 媺	myii
 䜸	muooi
 燘	xuooi
 燘	muooi
-
-
+䆀	moy
+䆀	mooi
 䆀	muoy
 鎂	myii
 沬	may
@@ -13482,10 +13482,10 @@ use_preset_vocabulary: true
 繆	miooc
 繆	myiu
 繆	myiw
-
+咩	mya
 咩	miee
 𡶫	qet
-
+烕	xyuet
 𥸴	met
 𥾝	met
 𤊾	met
@@ -13820,7 +13820,7 @@ use_preset_vocabulary: true
 衲	nop
 𤬷	nyoat
 娜	naa
-
+𡷝	nyuap
 䏧	nyeah
 袦	nyoat
 納	nop
@@ -13837,9 +13837,9 @@ use_preset_vocabulary: true
 蒳	nop
 𤷈	nat
 𤷈	nyaet
-
+𣹵	nyuap
 䪏	nop
-
+䎎	nyuap
 魶	nap
 魶	nop
 𡤙	nyaep
@@ -13917,9 +13917,9 @@ use_preset_vocabulary: true
 蠰	shaq
 蠰	srang
 饢	nang
-
+擃	nyeog
 曩	nag
-
+攮	nyeog
 灢	naq
 灢	nag
 儾	naq
@@ -14166,7 +14166,7 @@ use_preset_vocabulary: true
 苶	nep
 苶	net
 苶	ret
-
+乜	myaa
 肀	yuit
 㘝	nyaep
 㘝	nyip
@@ -14282,7 +14282,7 @@ use_preset_vocabulary: true
 濘	ney
 濘	neq
 濘	neg
-
+妞	nyou
 牛	qiou
 𧄗	dro
 𨙺	nyoou
@@ -14324,7 +14324,7 @@ use_preset_vocabulary: true
 襛	rung
 襛	nyung
 𧗕	nung
-
+𨑊	nyeog
 𨑊	nyung
 𨑊	noog
 𨲳	nyung
@@ -14333,7 +14333,7 @@ use_preset_vocabulary: true
 𨑋	nung
 𩅽	nung
 𩟊	nyeong
-
+𩟊	nyeog
 𩟊	nung
 𤣜	nau
 𪆯	nyeong
@@ -14539,7 +14539,7 @@ use_preset_vocabulary: true
 𤺏	puan
 攀	pean
 𤄜	piuan
-
+爿	bhaen
 爿	dziang
 幋	bhuan
 媻	bhua
@@ -14669,19 +14669,19 @@ use_preset_vocabulary: true
 婄	bhoou
 婄	poou
 毰	bhuoi
-
+𤗏	bhoi
 𤗏	bhuoi
 𩑢	bhaei
 𩑢	bhuoi
 䣙	bhuoi
 䣙	pog
-
+㯁	bhoi
 裴	bhuoi
 裴	bhiuoi
 𨛬	bhuoi
 賠	bhuoi
 錇	bhuoi
-
+俖	pooi
 𨙶	bay
 伂	bay
 沛	bay
@@ -14784,9 +14784,9 @@ use_preset_vocabulary: true
 皏	paeg
 剻	pog
 掽	bhaeq
-
+椪	paeq
 碰	bheaq
-
+碰	paeq
 丕	pyi
 㔻	pyi
 批	pei
@@ -15258,7 +15258,7 @@ use_preset_vocabulary: true
 𡕡	bhooc
 匍	bhu
 莆	biuu
-
+菩	booi
 菩	bhioou
 菩	bhu
 菩	bhoc
@@ -15366,7 +15366,7 @@ use_preset_vocabulary: true
 緀	tseei
 㯃	tsit
 慼	tsec
-
+𥉐	xeei
 諆	cy
 霋	tsei
 諿	tsip
@@ -15388,7 +15388,7 @@ use_preset_vocabulary: true
 亓	gy
 𨙸	gie
 祁	jii
-
+祁	gyi
 圻	gioi
 圻	qion
 圻	qon
@@ -15415,7 +15415,7 @@ use_preset_vocabulary: true
 疧	gie
 竒	gye
 竒	cye
-
+耆	gyi
 蚑	gie
 蚑	kieh
 蚚	huoy
@@ -15441,7 +15441,7 @@ use_preset_vocabulary: true
 淇	gy
 琪	gy
 琦	gye
-
+𦓀	gyi
 棊	gy
 棋	gy
 𨥦	dzei
@@ -15457,7 +15457,7 @@ use_preset_vocabulary: true
 頎	gioi
 𨥳	zei
 𨥳	dzei
-
+愭	gyi
 蜝	gy
 綦	gy
 𦸗	tsec
@@ -15470,16 +15470,16 @@ use_preset_vocabulary: true
 綨	gy
 璂	gy
 𧯯	gy
-
+𥉙	gyi
 踑	gy
-
+䅲	gyi
 䲬	gie
 禥	gy
-
+𧡺	gyi
 藄	gy
 𨄞	sooc
 𦪆	gy
-
+鮨	gyi
 𪀩	ky
 䶒	dzei
 懠	dzei
@@ -15489,7 +15489,7 @@ use_preset_vocabulary: true
 騎	gye
 騎	gyeh
 櫀	gy
-
+𨪌	gyi
 臍	dzei
 𩴆	gioi
 𩴆	ciooi
@@ -15499,11 +15499,11 @@ use_preset_vocabulary: true
 蘄	cioi
 鯕	gy
 麒	gy
-
+鬐	gyi
 蠐	dzei
 𧓉	dzi
 𢥎	zei
-
+鰭	gyi
 𧰙	gioi
 玂	gioi
 𪗍	dzei
@@ -15652,7 +15652,7 @@ use_preset_vocabulary: true
 䨐	haep
 䁍	kaep
 䯊	ka
-𧩶	keah
+??	keah
 髂	keah
 𩩱	keah
 𩮁	kaet
@@ -15736,7 +15736,7 @@ use_preset_vocabulary: true
 鬜	kaen
 鬜	kaet
 𨙙	tsien
-??	kaen
+𧢞	kaen
 䙭	kyen
 䙭	cyeen
 籤	tsiem
@@ -15748,7 +15748,7 @@ use_preset_vocabulary: true
 歬	dzen
 虔	gyen
 掮	gyen
-
+掮	gien
 乾	gyen
 乾	can
 朁	tsoom
@@ -15788,8 +15788,8 @@ use_preset_vocabulary: true
 灊	dziem
 灊	dzim
 灊	szim
-
-
+凵	kiuaam
+㧄	kiuaam
 𧥛	kiaan
 㦿	kaaem
 𠳋	kieen
@@ -15895,7 +15895,7 @@ use_preset_vocabulary: true
 搶	tsiang
 搶	tsiag
 搶	trag
-
+羥	kiag
 羥	kaen
 羥	kaeng
 摤	tsiag
@@ -16049,7 +16049,7 @@ use_preset_vocabulary: true
 㗫	tset
 魥	kiap
 魥	qop
-
+𤷾	kyep
 緁	tsiep
 𡐤	kyet
 踥	tsiep
@@ -16132,7 +16132,7 @@ use_preset_vocabulary: true
 𣜣	dzim
 𩷒	dzim
 鵭	gyim
-
+坅	kiim
 𦯈	tsiim
 笉	tsiin
 赾	kioon
@@ -16149,7 +16149,7 @@ use_preset_vocabulary: true
 鋟	tsiim
 鋟	ziem
 𡪢	tsiim
-
+螼	kynn
 螼	kiin
 𡬓	tsiim
 𠦎	tau
@@ -16160,10 +16160,10 @@ use_preset_vocabulary: true
 唚	tsimm
 菣	kenn
 菣	kinn
-
-
+搇	kyimm
+撳	kyimm
 䈜	tsimm
-
+𩔝	kyimm
 瀙	tsinn
 瀙	trynn
 瀙	dryn
@@ -16674,7 +16674,7 @@ use_preset_vocabulary: true
 群	giun
 𤸷	giun
 𤸷	qoan
-
+𦃢	kiuiin
 㱿	keoc
 冄	rem
 呥	rem
@@ -16773,7 +16773,7 @@ use_preset_vocabulary: true
 𠰒	ryaa
 惹	rac
 惹	ryaa
-
+𧧏	ryah
 熱	ret
 𩭿	reat
 人	rin
@@ -17088,10 +17088,10 @@ use_preset_vocabulary: true
 若	rac
 若	ryaa
 鄀	rac
-
+偌	ryah
 弱	rac
 焫	ruet
-
+渃	ryah
 婼	rya
 婼	re
 婼	tyac
@@ -17310,7 +17310,7 @@ use_preset_vocabulary: true
 㲚	srea
 痧	srea
 硰	tsaa
-
+硰	zuaa
 硰	srea
 蔱	sraet
 蔱	srey
@@ -18203,7 +18203,7 @@ use_preset_vocabulary: true
 摔	sruit
 𤸬	srui
 縗	tsuoi
-
+甩	sruee
 帥	sruih
 帥	sruit
 𠌭	sruit
@@ -19140,14 +19140,14 @@ use_preset_vocabulary: true
 䈱	tau
 縚	tau
 謟	tau
-
+謟	taw
 濤	dhau
 燾	dhau
 燾	dhaw
 㹗	choi
 㹗	tau
 韜	tau
-
+韜	taw
 𩥓	tau
 饕	tau
 匋	dhau
@@ -19181,8 +19181,8 @@ use_preset_vocabulary: true
 䬞	dhau
 䬞	dhyou
 討	taau
-
-
+套	taw
+𡘷	taw
 𡘷	taau
 忑	toc
 忒	toc
@@ -19868,7 +19868,7 @@ use_preset_vocabulary: true
 蛻	tuah
 㷟	tuoi
 褪	tuoy
-
+褪	tuonn
 駾	tuay
 吞	ten
 吞	ton
@@ -20064,7 +20064,7 @@ use_preset_vocabulary: true
 𩔀	qoey
 顡	qioy
 顡	quooi
-
+顡	tyoey
 𦘍	qoet
 䶐	oay
 䶐	uay
@@ -20621,7 +20621,7 @@ use_preset_vocabulary: true
 䁊	uat
 腛	eoc
 斡	uat
-
+㠛	iiuac
 𠿟	eoc
 瓁	quac
 臒	uac
@@ -20887,7 +20887,7 @@ use_preset_vocabulary: true
 䖒	xye
 嵠	kei
 徯	hei
-
+徯	xeei
 㴧	sioc
 溪	kei
 㜎	hei
@@ -21030,7 +21030,7 @@ use_preset_vocabulary: true
 諰	srae
 禧	xy
 壐	siee
-
+謑	xeei
 謑	xeah
 謑	xaeh
 縰	sree
@@ -21045,7 +21045,7 @@ use_preset_vocabulary: true
 躧	sraae
 躧	sree
 𩎉	sree
-
+匸	xeei
 卌	sip
 系	hey
 呬	xyih
@@ -21099,8 +21099,8 @@ use_preset_vocabulary: true
 䦧	xec
 黖	xioy
 䈪	xec
-
-
+𥰥	xeei
+𦩶	xeei
 䐼	hey
 䐼	het
 䮎	xioy
@@ -21405,7 +21405,7 @@ use_preset_vocabulary: true
 峴	heen
 㪇	senn
 涀	henn
-
+涀	xeei
 涀	kenn
 陷	haemm
 娨	heann
@@ -21720,7 +21720,7 @@ use_preset_vocabulary: true
 䙽	xet
 猲	xat
 猲	xiat
-
+猲	kiuap
 㥟	hae
 瑎	haei
 携	huei
@@ -21876,7 +21876,7 @@ use_preset_vocabulary: true
 杺	sim
 昕	xion
 欣	xion
-
+𣐽	dryyn
 𨊳	sim
 訢	xion
 𠷓	xeng
@@ -21912,11 +21912,11 @@ use_preset_vocabulary: true
 軐	senn
 衅	xyinn
 脪	xionn
-
+脪	xiin
 脪	tyi
 𦜓	xionn
 㾙	xionn
-
+㾙	xiin
 焮	xionn
 𦞤	sih
 顖	sinn
@@ -22168,7 +22168,7 @@ use_preset_vocabulary: true
 𥍟	xuec
 珬	siuit
 殈	xuec
-
+𥄵	xyuit
 欰	siuit
 𡱣	yoh
 𡱣	szioo
@@ -22194,7 +22194,7 @@ use_preset_vocabulary: true
 絮	sioh
 絮	tyoh
 婿	sey
-
+䎉	xyuit
 蓄	xiooc
 蓄	tyooc
 賉	siuit
@@ -22413,23 +22413,23 @@ use_preset_vocabulary: true
 泧	xuat
 泧	xiuat
 泧	hiuat
-
+怴	xyuit
 䒸	xuet
-
+𣧡	xyuet
 𥄎	tsiuec
-
+𥄎	xyuet
 𥄎	xiuoc
 𥄎	miuat
-
+𦐋	xyuet
 𦰾	xeoc
 𥅧	xuet
 䆝	xuet
 䎀	xiuat
 䦑	xuet
 䛎	xuet
-
+𩖶	xyuet
 䬂	xiuat
-
+䬂	xyuit
 謔	xiac
 䆷	xuet
 𩌊	xeoc
@@ -22828,7 +22828,7 @@ use_preset_vocabulary: true
 裺	iieem
 䎦	yeem
 𥈔	een
-
+𥈔	iienn
 𥈔	aet
 𠻤	yenn
 𠻤	yeen
@@ -22850,7 +22850,7 @@ use_preset_vocabulary: true
 噞	qyeem
 躽	een
 躽	iann
-
+躽	iienn
 縯	yeen
 縯	yiin
 檿	ieem
@@ -22907,7 +22907,7 @@ use_preset_vocabulary: true
 㛪	iamm
 堰	iann
 堰	iaan
-
+堰	iienn
 硯	qenn
 雁	qeann
 猒	iem
@@ -23129,7 +23129,7 @@ use_preset_vocabulary: true
 姚	yeu
 珧	yeu
 倄	heau
-
+倄	hwooi
 烑	yeu
 䋂	heau
 䚻	you
@@ -24115,7 +24115,7 @@ use_preset_vocabulary: true
 滎	hueng
 熒	hueng
 𦻝	cyac
-
+瑩	ueq
 瑩	hyuang
 䁝	hueng
 䁝	yueng
@@ -24131,7 +24131,7 @@ use_preset_vocabulary: true
 濴	yueng
 濙	ueg
 鎣	yueng
-
+鎣	ueq
 攍	yeng
 䕦	yeng
 蠅	yong
@@ -24175,8 +24175,8 @@ use_preset_vocabulary: true
 噟	ioq
 應	iong
 應	ioq
-
-
+𢣙	ueq
+瀅	ueq
 䙬	aeq
 䵴	yoq
 唷	yooc
@@ -24982,7 +24982,7 @@ use_preset_vocabulary: true
 𠏃	iua
 彠	hoec
 彠	iuac
-
+彠	iiuac
 月	qiuat
 戉	hiuat
 刖	qoat
@@ -25195,7 +25195,7 @@ use_preset_vocabulary: true
 咂	zop
 拶	zat
 魳	zop
-
+臢	zan
 砸	dzop
 㳨	zat
 䞙	zop
@@ -25456,7 +25456,7 @@ use_preset_vocabulary: true
 鰂	dzoc
 鱡	dzoc
 㻸	drim
-
+怎	driim
 譖	drimm
 鄫	dziong
 增	zong
@@ -25536,7 +25536,7 @@ use_preset_vocabulary: true
 𧼰	jraep
 𩿤	draet
 鍘	jreat
-
+鍘	jraet
 𤁳	dhyeap
 䮢	jraep
 𨰉	jreat
@@ -25568,7 +25568,7 @@ use_preset_vocabulary: true
 摣	nyea
 榨	dreah
 𢕮	dyeah
-
+𢕮	dyoeh
 鮓	dreaa
 𨢧	dreah
 摘	tec
@@ -25909,7 +25909,7 @@ use_preset_vocabulary: true
 偵	tyiq
 偵	dyeaq
 𣓀	dryn
-
+𣓀	dryyn
 葴	jim
 遉	tyiq
 湞	dhyaeng
@@ -25983,7 +25983,7 @@ use_preset_vocabulary: true
 縝	chin
 縝	jiin
 縝	tyin
-
+𧤛	dryyn
 辴	tyi
 辴	tyiin
 鬒	jiin
@@ -26768,7 +26768,7 @@ use_preset_vocabulary: true
 髽	droa
 簻	kua
 簻	dyoa
-
+𡎬	ziuaa
 拽	yet
 拽	zhey
 叀	juen
@@ -26873,7 +26873,7 @@ use_preset_vocabulary: true
 𪋇	jui
 䶆	jui
 沝	juee
-
+𩬳	dyooei
 笍	ruey
 笍	dyuey
 𧿲	jii
@@ -26909,7 +26909,7 @@ use_preset_vocabulary: true
 𨮱	dhyuey
 迍	dyuin
 肫	juin
-
+窀	dhoen
 窀	dhuon
 窀	dyuin
 啍	dhuon
@@ -27274,7 +27274,7 @@ use_preset_vocabulary: true
 鄹	dziuu
 𨃘	drou
 鯫	tsiu
-
+鯫	jroou
 鯫	dzou
 黀	drou
 𣠏	zou
@@ -27354,7 +27354,7 @@ use_preset_vocabulary: true
 𥎞	zuann
 𥎞	zuaan
 纉	zuaan
-
+䂎	tsuan
 䂎	tsuann
 䂎	zuann
 䂎	zuaan
@@ -27491,7 +27491,7 @@ use_preset_vocabulary: true
 𠕓	keoc
 𠚡	tau
 𡕥	xiuoc
-
+𡤼	cyet
 𢎰	ku
 𢎰	u
 𢡤	caec
@@ -27553,7 +27553,7 @@ use_preset_vocabulary: true
 暴走	bhaw zoou
 北燕	boc en
 背棄	bhuoy kih
-倍數	baix sruh
+倍數	booi sruh
 悖論	bhuot luonn
 悖逆	bhuot qyac
 荸薺	bhuot dzi
@@ -27668,7 +27668,7 @@ use_preset_vocabulary: true
 錯雜	tsac dzop
 錯綜	tsac zuq
 答應	dop ioq
-打轉	t'rangx dyuenn
+打轉	deag dyuenn
 大汗	dhay han
 大行	dhay hang
 大行	dhay heang
@@ -27931,7 +27931,7 @@ use_preset_vocabulary: true
 角里	looc lyy
 角直	looc dhyoc
 較易	ceoc yeh
-孑孓	kiet ciug
+孑孓	cyet ciug
 節省	zet sryag
 今上	cyim zhaq
 進藏	zinn dzaq
@@ -28036,7 +28036,7 @@ use_preset_vocabulary: true
 區別	kiu byet
 曲調	kiuc dhew
 圈地	kyuen dhih
-
+圈套	kyuen taw
 圈養	giuaan yag
 圈子	kyuen zyy
 全勝	dziuen shoq
