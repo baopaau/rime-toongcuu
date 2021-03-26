@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id toongcuu
   name: 通古羅馬字
-  version: "0.2"
+  version: "0.3"
   author:
     - Baopaau <baopaau@gmail.com>
   description: |
@@ -44,6 +44,7 @@ engine:
     - affix_segmentor@this_translator
     - affix_segmentor@terra_pinyin
     - affix_segmentor@cangjie5
+    - affix_segmentor@zyenpheng
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -55,6 +56,7 @@ engine:
     - script_translator@this_translator
     - script_translator@terra_pinyin
     - table_translator@cangjie5
+    - script_translator@zyenpheng
   filters:
     - simplifier
     - uniquifier
@@ -73,15 +75,20 @@ speller:
     - derive/^[bp]iu([^ao]|$)/fu$1/
     - derive/^bhiu([^ao]|$)/fvu$1/
     - derive/^miu([^ao]|$)/vu$1/
+
     # 忽略聲調
-    - derive/h$//
-    - derive/([nm])\1$/$1/
-    - derive/([aoeui])[gq]$/$1ng/
+    #- derive/([aoeuiy])\1/$1/
+    #- derive/h$//
+    #- derive/([nm])\1$/$1/
+    #- derive/([aoeui])[gq]$/$1ng/
+
     # 簡拼
-    - abbrev/^([a-z]).+$/$1/
-    #- abbrev/^([bpmfvdtnlczsjckgqxhyw]?[hryvsz]y?).+$/$1/
-    - abbrev/^([a-z]{2}).+$/$1/
-    - abbrev/^([a-z]{3}).+$/$1/
+    #- abbrev/^([aoeuiy]).+$/$1/
+    #- abbrev/^([cszbd]?h|[dtjsz]?r|[dtn]h?y|[ds]?z|t?s|d?j|fv|[bpmdtnlckgqxyfvw])[aoeuiy].+$/$1/
+    - abbrev/^([cszbd]h|[dtjsz]r|[dtn]h?y|[ds]z|ts|dj|fv).+$/$1/
+    - abbrev/^([a-z])[^hryzsjv].+$/$1/
+    #- abbrev/^([a-z]{2}).+$/$1/
+    #- abbrev/^([a-z]{3}).+$/$1/
 
 translator:
   dictionary: toongcuu
@@ -97,7 +104,7 @@ this_translator:
   tag: this_translator
   dictionary: toongcuu
   prism: *schema_id
-  prefix: "~"
+  prefix: "~~"
   tips: 〔通古〕
   comment_format: *comment
   preedit_format:
@@ -138,6 +145,15 @@ jyut6ping3:
     - xlit/123456/¹²³⁴⁵⁶/
     - xform/^(.*)$/‹$1› 粵拼/
 
+zyenpheng:
+  tag: zyenpheng
+  dictionary: zyenpheng
+  prism: zyenpheng
+  prefix: "~"
+  tips: 〔古韻〕
+  preedit_format:
+    - xform/^(.*)$/‹$1› 古韻/
+
 stroke:
   tag: stroke
   dictionary: stroke
@@ -164,7 +180,7 @@ cangjie5:
     - "^yyy.*$"
 
 reverse_lookup:
-  tags: [ terra_pinyin, jyut6ping3, stroke, cangjie5 ]
+  tags: [ terra_pinyin, jyut6ping3, zyenpheng, stroke, cangjie5 ]
   overwrite_comment: true
   dictionary: toongcuu
   comment_format: *comment
@@ -190,5 +206,6 @@ recognizer:
     stroke: "^`.*$"
     jyut6ping3: "^;.*$"
     cangjie5: "^`c.*$"
-    this_translator: "^~.*$"
+    this_translator: "^~~.*$"
     terra_pinyin: "^:.*$"
+    zyenpheng: "^~.*$"
