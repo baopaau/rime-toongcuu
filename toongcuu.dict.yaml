@@ -28,7 +28,7 @@
 
 ---
 name: toongcuu
-version: "0.3"
+version: "0.4"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -92,7 +92,7 @@ use_preset_vocabulary: true
 硋	qoy
 𧰿	qay
 隘	aeh
-嗌	ic
+嗌	iec
 愛	oy
 㾢	loi
 㾢	loy
@@ -832,7 +832,7 @@ use_preset_vocabulary: true
 䄶	bhuot
 狴	bei
 㢸	bhyit
-萆	bhic
+萆	bhiec
 萆	syy
 𦱔	bei
 梐	bheei
@@ -850,7 +850,7 @@ use_preset_vocabulary: true
 𨠔	bhit
 皕	bioc
 貱	byeh
-𣮐	bhic
+𣮐	bhiec
 詖	bye
 詖	byeh
 㓖	bit
@@ -924,7 +924,7 @@ use_preset_vocabulary: true
 鮅	bhit
 鮅	bit
 廦	bec
-廦	pic
+廦	piec
 壁	bec
 避	bhieh
 嬖	bey
@@ -936,7 +936,7 @@ use_preset_vocabulary: true
 鞞	biee
 𣝍	bhyac
 㱸	bhec
-㱸	bhic
+㱸	bhiec
 蹕	bit
 髀	bheei
 髀	biee
@@ -944,8 +944,8 @@ use_preset_vocabulary: true
 斃	bhiey
 濞	pey
 濞	pyih
-𨐨	bic
-𣦢	bic
+𨐨	biec
+𣦢	biec
 臂	bieh
 奰	bhyih
 𦌠	bhaec
@@ -954,20 +954,20 @@ use_preset_vocabulary: true
 饆	bit
 鄨	biey
 鄨	biet
-璧	bic
+璧	biec
 𥴬	bhey
 襣	bhih
-襞	bic
+襞	biec
 繴	bhaec
 繴	bec
 韠	bit
-躃	bhic
-躄	bic
+躃	bhiec
+躄	biec
 鷝	pit
 鷝	bit
 贔	bhyih
-鐴	bic
-𩪧	bhic
+鐴	biec
+𩪧	bhiec
 鷩	biey
 鷩	biet
 𡚤	bhyih
@@ -1213,7 +1213,7 @@ use_preset_vocabulary: true
 仌	biong
 冰	biong
 兵	byang
-栟	bing
+栟	bieng
 掤	biong
 丙	byag
 邴	byaq
@@ -1230,29 +1230,29 @@ use_preset_vocabulary: true
 棅	byaq
 鈵	byaq
 稟	byiim
-鉼	big
-餅	big
+鉼	bieg
+餅	bieg
 𩶁	bhaeg
-䴵	big
+䴵	bieg
 癛	liim
 疒	nyaec
 疒	jrang
-并	bing
-并	biq
-幷	biq
+并	bieng
+并	bieq
+幷	bieq
 併	bheg
 併	bhaeg
-併	biq
-併	big
+併	bieq
+併	bieg
 並	bheg
-庰	bhiq
-倂	biq
+庰	bhieq
+倂	bieq
 𠊧	bhaeq
 𠊧	bhaeg
 病	bhyaq
 竝	bheg
-偋	bhiq
-摒	biq
+偋	bhieq
+摒	bieq
 傡	bhaeq
 傡	bhaeg
 寎	byaq
@@ -1929,7 +1929,7 @@ use_preset_vocabulary: true
 𠐩	tyaaem
 繟	cheen
 繟	dhan
-䩶	tyig
+䩶	tyeg
 䩶	tyeen
 𠑆	tyuaam
 鏟	treann
@@ -2207,7 +2207,7 @@ use_preset_vocabulary: true
 傖	tsang
 傖	jreang
 䟓	tyeang
-䟓	tying
+䟓	tyeng
 䟓	dyaeng
 爯	chong
 琤	treang
@@ -2217,59 +2217,59 @@ use_preset_vocabulary: true
 偁	chong
 䟫	chag
 䟫	dhyeang
-靗	tyiq
-䞓	tying
+靗	tyeq
+䞓	tyeng
 稱	chong
 稱	choq
 撐	tyeang
-赬	tying
+赬	tyeng
 橕	tyeang
 瞠	tyeang
-檉	tying
-蟶	tying
+檉	tyeng
+蟶	tyeng
 鏳	jraeng
 朾	dhyaeng
 朾	dyaeng
-成	zhing
+成	zheng
 丞	zhong
 丞	zhoq
-呈	dhying
-呈	dhyiq
+呈	dhyeng
+呈	dhyeq
 䆑	dhyaeng
-郕	zhing
+郕	zheng
 承	zhong
-城	zhing
-𢦩	zhing
+城	zheng
+𢦩	zheng
 乗	djong
 乗	djoq
-宬	zhing
-珹	zhing
-埕	dhying
+宬	zheng
+珹	zheng
+埕	dhyeng
 挰	dhyeang
 乘	djong
 乘	djoq
 𠅞	djong
 脀	jong
-珵	dhying
+珵	dhyeng
 掁	dhyeang
 棖	dhyeang
-程	dhying
-筬	zhing
+程	dhyeng
+筬	zheng
 椉	djong
-裎	dhying
-裎	tyig
+裎	dhyeng
+裎	tyeg
 塖	djong
-䇸	dhying
+䇸	dhyeng
 䚘	jreang
 塍	djong
-誠	zhing
+誠	zheng
 𢾊	dhyaeng
 溗	djong
-酲	dhying
+酲	dhyeng
 䁎	dhyaeng
-鋮	zhing
+鋮	zheng
 䫆	gyang
-䫆	zhing
+䫆	zheng
 澂	dhyong
 澄	dhyeang
 澄	dhyong
@@ -2282,24 +2282,24 @@ use_preset_vocabulary: true
 䆵	dhyaeng
 懲	dhyong
 騬	djong
-逞	tyig
+逞	tyeg
 徎	teg
-徎	dhyig
-悜	tyig
+徎	dhyeg
+悜	tyeg
 庱	tyong
 庱	tyog
-睈	tyig
-騁	tyig
+睈	tyeg
+騁	tyeg
 秤	choq
 牚	tyeaq
 竀	tyeang
-竀	tying
+竀	tyeng
 吃	ciot
 妛	chy
 侙	tyoc
 𨒬	chi
-哧	chic
-哧	shic
+哧	chec
+哧	shec
 蚩	chy
 𦐉	chy
 眵	che
@@ -2307,7 +2307,7 @@ use_preset_vocabulary: true
 笞	ty
 瓻	tyi
 𤭏	gyac
-𤭏	tyic
+𤭏	tyec
 喫	kec
 摛	tye
 嗤	chy
@@ -2364,8 +2364,8 @@ use_preset_vocabulary: true
 謘	dhyih
 䶔	dhye
 䶵	dhye
-尺	chic
-呎	chic
+尺	chec
+呎	chec
 肔	yee
 侈	chee
 卶	cheh
@@ -2375,7 +2375,7 @@ use_preset_vocabulary: true
 㢁	chee
 恥	tyy
 𢻃	zheh
-蚇	chic
+蚇	chec
 㶴	chee
 𧰲	chee
 豉	zheh
@@ -2396,29 +2396,29 @@ use_preset_vocabulary: true
 𡳭	tyih
 𡳭	tyii
 𧖛	tyii
-彳	tyic
+彳	tyec
 𠮟	chit
 叱	chit
 斥	chyah
-斥	chic
-赤	chic
-𠧚	chic
+斥	chec
+赤	chec
+𠧚	chec
 杘	tyih
 抶	tyit
 迣	jey
 勅	tyoc
 㽚	tyoc
-㡿	chic
+㡿	chec
 恜	tyoc
 𣐉	tyih
 翅	sheh
-𠧵	chic
+𠧵	chec
 翄	gie
 翄	sheh
 𦐊	sheh
 敕	tyoc
 痓	chih
-烾	chic
+烾	chec
 䀸	jey
 䀸	tyey
 䀿	jet
@@ -2996,7 +2996,7 @@ use_preset_vocabulary: true
 朿	tsieh
 次	tsih
 刺	tsieh
-刺	tsic
+刺	tsiec
 刾	tsieh
 佽	tsih
 㢀	tsieh
@@ -3292,7 +3292,7 @@ use_preset_vocabulary: true
 措	tsuh
 𢯽	tsuah
 逪	tsac
-棤	sic
+棤	siec
 銼	tsuah
 銼	dzua
 銼	dzooc
@@ -4054,7 +4054,7 @@ use_preset_vocabulary: true
 耵	deg
 虰	dhyaeng
 虰	deng
-虰	tying
+虰	tyeng
 釘	deng
 釘	deq
 靪	deng
@@ -5764,7 +5764,7 @@ use_preset_vocabulary: true
 夰	haau
 夰	caau
 杲	caau
-㚖	chic
+㚖	chec
 㚖	caau
 菒	caau
 搞	ceaau
@@ -6868,9 +6868,9 @@ use_preset_vocabulary: true
 好	xaw	30%
 好	xaau
 𡥆	xaw
-郝	chic	1%
+郝	chec	1%
 郝	xac	98%
-郝	shic	1%
+郝	shec	1%
 号	haw
 𡚽	xaw
 𡚽	xaau
@@ -8012,7 +8012,7 @@ use_preset_vocabulary: true
 雘	uac
 謋	xoac
 𤐰	huac
-䨥	jic
+䨥	jec
 䨥	huac
 矆	xiuac
 穫	huac
@@ -8045,7 +8045,7 @@ use_preset_vocabulary: true
 刏	cuoy
 肌	cyi
 枅	cei
-𨒪	zic
+𨒪	ziec
 咭	xit
 咭	kaet
 剞	cyee
@@ -8091,7 +8091,7 @@ use_preset_vocabulary: true
 墼	cec
 𨂰	tyey
 積	zieh	5%
-積	zic
+積	ziec
 錤	gy
 錤	cy
 𦠄	gioi
@@ -8109,7 +8109,7 @@ use_preset_vocabulary: true
 𨍺	gyac
 擊	cec
 磯	cioi
-𧐐	zic
+𧐐	ziec
 𧐐	draec
 櫅	zei
 𨪴	cei
@@ -8174,8 +8174,8 @@ use_preset_vocabulary: true
 楖	dryt
 𠦫	dzip
 谻	cyac
-庴	zic
-庴	dzic
+庴	ziec
+庴	dziec
 㾊	sraec
 㥛	cioc
 𨕤	gyip
@@ -8191,7 +8191,7 @@ use_preset_vocabulary: true
 趌	kit
 趌	cyet
 趌	cit
-塉	dzic
+塉	dziec
 蒺	dzit
 𦶍	gyip
 楫	ziep
@@ -8203,11 +8203,11 @@ use_preset_vocabulary: true
 愱	dzit
 嫉	dzih
 嫉	dzit
-耤	dzic
+耤	dziec
 槉	dzit
 䁒	zip
 𥠋	zip
-膌	dzic
+膌	dziec
 䲯	gyip
 𨂢	zioc
 蕀	cioc
@@ -8215,18 +8215,18 @@ use_preset_vocabulary: true
 蕺	drip
 𦺴	dzip
 踖	tsiac
-踖	zic
-踖	dzic
+踖	ziec
+踖	dziec
 𠿠	drip
 㗱	zip
 㠍	zip
 箿	dzip
 𧩦	cioc
-瘠	dzic
+瘠	dziec
 濈	drip
 潗	zip
 𢇓	giot
-䣢	dzic
+䣢	dziec
 㻷	cioc
 檝	ziep
 檝	dzip
@@ -8234,17 +8234,17 @@ use_preset_vocabulary: true
 𧤏	drip
 𧎿	dzit
 藉	dzyah
-藉	dzic
+藉	dziec
 䩯	kioc
 𥊬	drip
-蹐	zic
+蹐	ziec
 簎	tryac
-簎	dzic
+簎	dziec
 簎	jreoc
 𧪠	dzit
 襋	cioc
 㘍	zit
-𪃹	zic
+𪃹	ziec
 𪃹	zioc
 䚐	tec
 䚐	dzec
@@ -8253,11 +8253,11 @@ use_preset_vocabulary: true
 轚	cec
 霵	drip
 霵	jrip
-籍	dzic
+籍	dziec
 鏶	tsiep
 鏶	dzip
-𨆮	dzic
-鶺	zic
+𨆮	dziec
+鶺	ziec
 𪄸	zec
 覿	dhec
 躤	dzyah
@@ -8272,7 +8272,7 @@ use_preset_vocabulary: true
 妀	cyy
 𤜾	cyac
 虮	cyi
-脊	zic
+脊	ziec
 掎	kyeh
 掎	cye
 掎	cyee
@@ -8314,7 +8314,7 @@ use_preset_vocabulary: true
 垍	gyih
 茍	cioc
 計	cey
-迹	zic
+迹	ziec
 洎	gyih
 洎	cyih
 𡧯	dzec
@@ -8346,7 +8346,7 @@ use_preset_vocabulary: true
 塈	gyih
 塈	xioy
 勣	zec
-跡	zic
+跡	ziec
 𥭜	gyh
 痵	giuih
 兾	cyih
@@ -8380,7 +8380,7 @@ use_preset_vocabulary: true
 𦃟	hey
 劑	ziue	1%
 劑	dzey
-襀	zic
+襀	ziec
 檕	cey
 檕	kei
 鮆	zie
@@ -8392,8 +8392,8 @@ use_preset_vocabulary: true
 濟	zeei	4%
 績	zec
 檵	cey
-蹟	zic
-鯽	zic
+蹟	ziec
+鯽	ziec
 鯽	zioc
 齌	zei
 齌	tsei
@@ -8417,11 +8417,11 @@ use_preset_vocabulary: true
 鱀	gyih
 繼	cey
 𨣧	dzey
-𩺀	zic
+𩺀	ziec
 𡬄	giuih
 蘻	cey
 霽	zey
-鰿	zic
+鰿	ziec
 鰿	jraec
 鰶	ziey
 𦇧	cyey
@@ -9186,7 +9186,7 @@ use_preset_vocabulary: true
 巀	dzet
 𤁢	zat
 𤁢	zet
-𤁢	zic
+𤁢	ziec
 䌖	zip
 䌖	dziep
 蠞	dzet
@@ -9236,7 +9236,7 @@ use_preset_vocabulary: true
 衸	caey
 蚧	caey
 借	zyah
-借	zic
+借	ziec
 悈	cioc
 悈	caey
 㾏	caeh
@@ -9318,7 +9318,7 @@ use_preset_vocabulary: true
 妗	xaem
 枃	zinn
 𤘡	gyimm
-勁	ciq
+勁	cieq
 晉	zinn
 𦧈	gyimm
 浸	tsim
@@ -9381,48 +9381,48 @@ use_preset_vocabulary: true
 秔	ceang
 莖	haeng
 莖	aeng
-涇	gig
+涇	gieg
 涇	ceng
-菁	zing
+菁	zieng
 殑	giong
 殑	gioq
 殑	giog
-旌	zing
-旍	zing
-晶	zing
+旌	zieng
+旍	zieng
+晶	zieng
 稉	ceang
-腈	zing
-睛	tsig
-睛	zing
+腈	zieng
+睛	tsieg
+睛	zieng
 粳	ceang
 經	ceng
 經	ceq
-聙	zing
+聙	zieng
 兢	ciong
-精	zing
-精	ziq
-𣻒	zing
+精	zieng
+精	zieq
+𣻒	zieng
 䪫	haeng
-𩓨	zing
+𩓨	zieng
 鵛	ceng
 鯨	gyang
 鶁	cyang
 麖	cyang
-鼱	zing
+鼱	zieng
 驚	cyang
 䲔	giang
 䲔	gyang
 麠	cyang
-井	zig
-丼	zig
+井	zieg
+丼	zieg
 丼	doom
-𨙷	zig
-阱	dzig
+𨙷	zieg
+阱	dzieg
 汫	dzeg
-肼	zig
+肼	zieg
 剄	ceg
-穽	dziq
-穽	dzig
+穽	dzieq
+穽	dzieg
 景	cyag
 儆	gyaq
 儆	cyag
@@ -9433,15 +9433,15 @@ use_preset_vocabulary: true
 璟	iiag
 憼	ciag
 憼	cyag
-頸	ging	3%
+頸	gieng	3%
 頸	ceng	1%
-頸	cig
+頸	cieg
 暻	cyuag
 蟼	cyang
 蟼	cyag
 蟼	cea
 警	cyag
-妌	dzig
+妌	dzieg
 俓	ceq
 俓	qen
 俓	qaeng
@@ -9452,32 +9452,32 @@ use_preset_vocabulary: true
 徑	ceq
 凈	traeng
 弳	ceq
-𩇕	dzig
+𩇕	dzieg
 桱	ceq
 脛	heq
 脛	heg
 竟	cyaq
-竫	dzig
-淨	dziq
-婧	zing
-婧	dziq
-婧	dzig
-𦳲	ging
+竫	dzieg
+淨	dzieq
+婧	zieng
+婧	dzieq
+婧	dzieg
+𦳲	gieng
 葝	gyang
-葝	ging
+葝	gieng
 敬	cyaq
-痙	gig
-靖	dzig
+痙	gieg
+靖	dzieg
 境	cyag
 踁	heq
 獍	cyaq
 誩	giag
 誩	gyaq
 誩	tomm
-䝼	dzing
-䝼	dziq
-𩓞	dziq
-靜	dzig
+䝼	dzieng
+䝼	dzieq
+𩓞	dzieq
+靜	dzieg
 曔	gyaq
 𥪰	gyaq
 𩰹	ceq
@@ -9741,7 +9741,7 @@ use_preset_vocabulary: true
 筥	cioo
 蒟	ciuh
 蒟	ciuu
-䃊	zic
+䃊	ziec
 䃊	zioo
 榘	ciuu
 聥	ciuu
@@ -10881,7 +10881,7 @@ use_preset_vocabulary: true
 喇	lat
 藞	leaa
 𢃴	lat
-腊	sic
+腊	siec
 㻝	lat
 楋	lat
 揧	lat
@@ -11737,7 +11737,7 @@ use_preset_vocabulary: true
 踉	lang
 踉	liang
 踉	liaq
-靚	dziq
+靚	dzieq
 輛	liaq
 輛	liag
 諒	liaq
@@ -11874,7 +11874,7 @@ use_preset_vocabulary: true
 䅀	liet
 脟	liueen
 脟	liuet
-猎	dzic
+猎	dziec
 裂	liet
 蛚	liet
 𥪂	liep
@@ -12008,7 +12008,7 @@ use_preset_vocabulary: true
 刢	leng
 灵	leng
 阾	leng
-阾	lig
+阾	lieg
 夌	liong
 苓	leng
 囹	leng
@@ -12018,7 +12018,7 @@ use_preset_vocabulary: true
 姈	leng
 玲	leng
 柃	leng
-柃	lig
+柃	lieg
 昤	leng
 𠱠	leng
 㸳	leng
@@ -12033,7 +12033,7 @@ use_preset_vocabulary: true
 凌	liong
 㾉	leng
 竛	leng
-袊	lig
+袊	lieg
 陵	liong
 掕	liong
 聆	leng
@@ -12053,10 +12053,10 @@ use_preset_vocabulary: true
 㱥	liong
 㱥	loq
 跉	leng
-跉	ling
+跉	lieng
 𠗲	liong
 詅	leng
-詅	liq
+詅	lieq
 祾	liong
 祾	long
 𡕮	cioc
@@ -12083,7 +12083,7 @@ use_preset_vocabulary: true
 魿	leng
 澪	leng
 䕘	leng
-䕘	lig
+䕘	lieg
 𩄀	leng
 霝	leng
 霛	leng
@@ -12122,14 +12122,14 @@ use_preset_vocabulary: true
 龗	leng
 岭	leng
 𦊓	leg
-領	lig
-嶺	lig
+領	lieg
+嶺	lieg
 另	leq
 令	leng
 令	leq
 令	lien
-令	ling
-令	liq
+令	lieng
+令	lieq
 呤	leng
 溜	liow
 㳅	liou
@@ -12404,7 +12404,7 @@ use_preset_vocabulary: true
 㔪	luu
 𢲸	luu
 蓾	luu
-滷	chic
+滷	chec
 滷	dhec
 滷	luu
 樐	luu
@@ -13578,13 +13578,13 @@ use_preset_vocabulary: true
 𥴲	myiin
 鰵	myiin
 𨏵	myiin
-名	ming
+名	mieng
 明	myang
 茗	meg
-洺	ming
+洺	mieng
 冥	meng
 眳	meg
-眳	mig
+眳	mieg
 朙	myang
 𥹆	meng
 鄍	meng
@@ -13613,9 +13613,9 @@ use_preset_vocabulary: true
 姳	meg
 𥥊	myag
 酩	meg
-慏	mig
+慏	mieg
 命	myaq
-詺	miq
+詺	mieq
 䒌	meq
 謬	myow
 摸	mac
@@ -14877,7 +14877,7 @@ use_preset_vocabulary: true
 𦳈	bhi
 椑	bhei
 椑	bhec
-椑	bhic
+椑	bhiec
 椑	bie
 㼰	bhei
 𦜉	bhie
@@ -14924,10 +14924,10 @@ use_preset_vocabulary: true
 𡺮	bhyii
 𡺮	pyii
 諀	piee
-擗	bhic
+擗	bhiec
 䫌	peei
 癖	pec
-癖	pic
+癖	piec
 嚭	pyii
 䤏	bhyii
 𠯔	pit
@@ -14937,16 +14937,16 @@ use_preset_vocabulary: true
 𢾇	pioc
 睥	pey
 𣹮	pey
-辟	bhic
-辟	pic
-辟	bic
+辟	bhiec
+辟	piec
+辟	biec
 媲	pey
 䤨	pec
 潎	piey
 潎	piet
-𠪮	jic
+𠪮	jec
 僻	pec
-僻	pic
+僻	piec
 澼	pec
 䠘	pey
 𩜰	pioc
@@ -14960,7 +14960,7 @@ use_preset_vocabulary: true
 䊧	piuoy
 疈	pioc
 譬	pieh
-闢	bhic
+闢	bhiec
 㿙	pyih
 鷿	bhec
 偏	pien
@@ -15089,14 +15089,14 @@ use_preset_vocabulary: true
 𣎳	paeh
 牝	bhii
 牝	bhiin
-聘	piq
+聘	pieq
 乒	peng
 甹	you
 甹	peng
 俜	peng
-俜	piq
+俜	pieq
 砯	piong
-娉	piq
+娉	pieq
 艵	peng
 頩	peng
 頩	peg
@@ -15119,8 +15119,8 @@ use_preset_vocabulary: true
 胓	bhyang
 洴	bheng
 屏	bheng
-屏	bing
-屏	big
+屏	bieng
+屏	bieg
 瓶	bheng
 萍	bheng
 蚲	bhyang
@@ -15136,7 +15136,7 @@ use_preset_vocabulary: true
 竮	bheng
 竮	peng
 箳	bheng
-箳	bing
+箳	bieng
 鮃	bhyang
 㵗	bhiong
 憑	bhiong
@@ -15569,7 +15569,7 @@ use_preset_vocabulary: true
 氣	kioy
 訖	ciot
 唭	kyh
-𧙞	tsic
+𧙞	tsiec
 𡍪	trip
 葺	tsip
 葺	zip
@@ -15583,7 +15583,7 @@ use_preset_vocabulary: true
 㞚	draep
 㞚	sreap
 𡳅	kyey
-𧻕	tsic
+𧻕	tsiec
 䁈	key
 䁈	duu
 𧚨	tsip
@@ -15602,7 +15602,7 @@ use_preset_vocabulary: true
 𡢖	key
 𡢖	kaeh
 𡢖	kaae
-磧	tsic
+磧	tsiec
 磩	tsec
 𥉻	tsey
 𥉻	traet
@@ -15615,7 +15615,7 @@ use_preset_vocabulary: true
 𢢞	key
 䫔	key
 䫔	ket
-䟄	tsic
+䟄	tsiec
 䟄	jroec
 蟿	key
 蟿	kih
@@ -15822,7 +15822,7 @@ use_preset_vocabulary: true
 茜	tsenn
 𢂺	tsenn
 倩	tsenn
-倩	tsiq
+倩	tsieq
 棈	tsenn
 嵌	keam
 嵌	dzaam
@@ -16170,32 +16170,32 @@ use_preset_vocabulary: true
 青	tseng
 靑	tseng
 卿	kyang
-圊	tsing
-氫	king
-清	tsing
-淸	tsing
+圊	tsieng
+氫	kieng
+清	tsieng
+淸	tsieng
 傾	kiueng
 㾤	keong
-輕	king
-輕	kiq
+輕	kieng
+輕	kieq
 蜻	tseng
-蜻	zing
+蜻	zieng
 綪	tsenn
 綪	draeng
 𩓏	kiueg
 鶄	tseng
-鶄	zing
+鶄	zieng
 鯖	tseng
-鯖	jing
+鯖	jeng
 𨆪	keq
-𨆪	king
+𨆪	kieng
 鑋	keq
-鑋	king
-夝	dzing
+鑋	kieng
+夝	dzieng
 勍	gyang
-情	dzing
-晴	dzing
-氰	dzing
+情	dzieng
+晴	dzieng
+氰	dzieng
 䵞	gyang
 樈	gyang
 檠	gyang
@@ -16203,36 +16203,36 @@ use_preset_vocabulary: true
 擎	gyang
 㯳	cyag
 𩷏	heg
-𩷏	ging
+𩷏	gieng
 黥	gyang
 苘	kiueg
 苘	kueg
 頃	kiueng
 頃	kiueg
 䔛	kiueg
-請	tsig
-請	dzing	1%
-請	dziq	3%
+請	tsieg
+請	dzieng	1%
+請	dzieq	3%
 𩒵	kiueg
 㩩	kiueg
 謦	keg
 檾	kiueg
 檾	kueg
-凊	tsiq
+凊	tsieq
 掅	tseq
 殸	keq
 殸	kaeng
 𥥻	keq
 靘	tseng
 靘	tseq
-箐	zing
+箐	zieng
 慶	kyaq
 磬	keq
 親	tsin
 親	tsinn
 罄	keq
 㵾	tryaq
-㵾	dziq
+㵾	dzieq
 邛	giung
 𢗋	giueng
 𢗋	zhuin
@@ -16637,7 +16637,7 @@ use_preset_vocabulary: true
 搉	keoc
 搉	ceoc
 皵	tsiac
-皵	tsic
+皵	tsiec
 碏	tsiac
 䇎	tsiac
 愨	keoc
@@ -17251,7 +17251,7 @@ use_preset_vocabulary: true
 鐰	dzau
 髞	saw
 色	sroc
-洓	tsic
+洓	tsiec
 栜	sraec
 雭	srip
 𠵭	iiet
@@ -17426,7 +17426,7 @@ use_preset_vocabulary: true
 𩌰	sraem
 𨏪	sraem
 鱣	dyen
-㚒	shic
+㚒	shec
 㚒	sheem
 炶	ham
 陝	sheem
@@ -17617,7 +17617,7 @@ use_preset_vocabulary: true
 射	yah	3%
 射	yec	2%
 射	djyah
-射	djic
+射	djec
 涉	dep
 涉	zhep
 赦	shyah
@@ -17644,7 +17644,7 @@ use_preset_vocabulary: true
 攝	nep	5%
 攝	shep
 麝	djyah
-麝	djic
+麝	djec
 灄	shep
 懾	jep
 欇	shep
@@ -17765,7 +17765,7 @@ use_preset_vocabulary: true
 鉎	seng
 鉎	sryang
 䴤	sryang
-聲	shing
+聲	sheng
 鼪	sryang
 鼪	sryaq
 澠	miin
@@ -17777,32 +17777,32 @@ use_preset_vocabulary: true
 鱦	meag
 鱦	djong
 鱦	djoq
-省	sig	50%
+省	sieg	50%
 省	sryag
 眚	sryag
 𨜜	sryag
-渻	sig
+渻	sieg
 渻	sryag
 𡞞	sryag
-㮐	sig
+㮐	sieg
 㼳	sryag
 㾪	sryag
 䚇	sryag
 𨵥	sryag
 圣	kuot
 胜	seng
-晟	zhiq
-盛	zhing
-盛	zhiq
+晟	zheq
+盛	zheng
+盛	zheq
 剰	djoq
 貹	sryaq
 𡹴	djoq
 剩	djoq
 勝	shong
 勝	shoq
-聖	shiq
+聖	sheq
 嵊	djoq
-墭	zhiq
+墭	zheq
 榺	shoq
 蕂	shoq
 賸	yoq
@@ -17855,7 +17855,7 @@ use_preset_vocabulary: true
 𪓿	she
 十	zhip
 饣	djoc
-石	zhic
+石	zhec
 𡚼	chee
 旹	zhy
 拾	zhip
@@ -17863,14 +17863,14 @@ use_preset_vocabulary: true
 食	yh	2%
 食	szyh	3%
 食	djoc
-炻	zhic
-祏	zhic
+炻	zhec
+祏	zhec
 姼	chee
 姼	zhe
 姼	zhee
 時	zhy
 時閒	zhy caen
-䄷	zhic
+䄷	zhec
 遈	zhoc
 㖷	zhe
 湜	zhoc
@@ -17878,15 +17878,15 @@ use_preset_vocabulary: true
 塒	zhy
 蒔	zhy
 蒔	zhyh
-鉐	zhic
+鉐	zhec
 榯	zhy
 鉽	shoc
 蝕	djoc
 實	djit
 䈕	zhe
 䲽	deeu
-䲽	zhic
-鼫	zhic
+䲽	zhec
+鼫	zhec
 鼭	zhy
 識	jyh	4%
 識	shoc
@@ -17909,7 +17909,7 @@ use_preset_vocabulary: true
 𩰢	sryh
 𩰢	sryy
 士	jryy
-氏	zing	1%
+氏	zieng	1%
 氏	je	2%
 氏	zhee
 礻	djih
@@ -17946,7 +17946,7 @@ use_preset_vocabulary: true
 恀	jee
 恀	zhee
 室	shit
-冟	shic
+冟	shec
 逝	zhey
 栻	tyoc
 眎	zhih
@@ -17975,7 +17975,7 @@ use_preset_vocabulary: true
 軾	shoc
 䩃	zheh
 𣂯	zhey
-睗	shic
+睗	shec
 嗜	zhih
 㒾	yeh
 㒾	sheh
@@ -17989,10 +17989,10 @@ use_preset_vocabulary: true
 誓	zhey
 舓	djee
 𩛌	jryh
-適	jic
-適	shic
+適	jec
+適	shec
 適	dec
-奭	shic
+奭	shec
 銴	yuey
 銴	zhey
 䊓	dhyee
@@ -18002,20 +18002,20 @@ use_preset_vocabulary: true
 諟	zhee
 諡	djih
 澨	zhey
-螫	shic
+螫	shec
 檡	dhyeac
-檡	shic
+檡	shec
 𨢍	zhih
-謚	ic
+謚	iec
 謚	djih
-𡣪	shic
+𡣪	shec
 𩋡	shit
-䁺	shic
+䁺	shec
 簭	zhey
-𥼶	shic
+𥼶	shec
 齛	siet
-釋	shic
-襫	shic
+釋	shec
+襫	shec
 𨽄	sryh
 匙	zhe
 收	shou
@@ -18224,7 +18224,7 @@ use_preset_vocabulary: true
 𨏉	sruen
 𨏉	sruenn
 霜	srang
-𩀝	jic
+𩀝	jec
 雙	sreong
 孀	srang
 騻	srang
@@ -18294,7 +18294,7 @@ use_preset_vocabulary: true
 搠	sreoc
 蒴	sreoc
 㮶	sreoc
-碩	zhic
+碩	zhec
 𦋞	sreoc
 槊	sreoc
 𦂗	sreoc
@@ -18554,7 +18554,7 @@ use_preset_vocabulary: true
 㑛	sooc
 洬	suc
 素	suh
-速	zic	0%
+速	ziec	0%
 速	sooc
 𠉦	siooc
 涑	sou
@@ -19090,7 +19090,7 @@ use_preset_vocabulary: true
 醣	dhang
 螳	dhang
 餳	dhang
-餳	szing
+餳	szieng
 糛	dhang
 𨶈	dhang
 䉎	dhang
@@ -19345,11 +19345,11 @@ use_preset_vocabulary: true
 鬀	dhey
 鬀	tey
 嚏	dey
-䯜	sic
+䯜	siec
 䯜	tec
-鬄	sic
+鬄	siec
 嚔	dey
-𩮜	shic
+𩮜	shec
 𩮜	tec
 籊	dhec
 籊	tec
@@ -19990,7 +19990,7 @@ use_preset_vocabulary: true
 撱	yuee
 橢	tuaa
 鵎	tuaa
-拓	jic
+拓	jec
 拓	tac
 柝	tac
 𦚈	tac
@@ -20813,26 +20813,26 @@ use_preset_vocabulary: true
 鶩	mooc
 鶩	miuh
 𦆞	miuh
-夕	szic
+夕	sziec
 兮	hei
 覀	xeaa
 覀	eah
 西	sei
 吸	xyip
 㕧	xyih
-汐	szic
+汐	sziec
 忚	xei
 𡗞	hei
 希	xioi
 𣢂	xi
-昔	sic
+昔	siec
 㭊	sec
 析	sec
-矽	szic
+矽	sziec
 𠧧	sei
 肸	xiot
 肸	xyit
-穸	szic
+穸	sziec
 𣢑	xy
 俙	xioi
 俙	xiooi
@@ -20863,7 +20863,7 @@ use_preset_vocabulary: true
 悉	sit
 烯	xioi
 淅	sec
-惜	sic
+惜	siec
 惁	sec
 䙵	huei
 㱤	sec
@@ -20878,7 +20878,7 @@ use_preset_vocabulary: true
 䐅	xi
 粞	soi
 粞	sei
-焟	sic
+焟	siec
 犀	sei
 𠞂	sei
 蒠	sioc
@@ -20912,7 +20912,7 @@ use_preset_vocabulary: true
 磎	kei
 嘻	xy
 噏	xyip
-𩾼	sic
+𩾼	siec
 膝	sit
 瘜	sioc
 㾷	sei
@@ -20932,7 +20932,7 @@ use_preset_vocabulary: true
 錫	sec
 歙	xyip
 歙	shep
-𦠡	sic
+𦠡	siec
 𦫬	xei
 羲	xye
 熻	xyip
@@ -20974,13 +20974,13 @@ use_preset_vocabulary: true
 鑴	huei
 鑴	xiue
 郋	hei
-𨛳	szic
+𨛳	sziec
 𧿅	sip
-席	szic
+席	sziec
 習	szip
 蒵	hei
 蒵	hey
-蓆	szic
+蓆	sziec
 椺	hec
 𧋐	sec
 媳	sioc
@@ -21076,7 +21076,7 @@ use_preset_vocabulary: true
 細	sey
 𣣉	xec
 舄	tsiac
-舄	sic
+舄	siec
 隙	kyac
 𥿳	sey
 赩	xioc
@@ -21090,10 +21090,10 @@ use_preset_vocabulary: true
 稧	hey
 𧨃	xec
 熂	xioy
-蕮	sic
+蕮	siec
 𠽧	dhet
 𤡬	xyih
-潟	sic
+潟	siec
 潝	xyip
 䊠	xioy
 䦧	xec
@@ -21104,7 +21104,7 @@ use_preset_vocabulary: true
 䐼	hey
 䐼	het
 䮎	xioy
-磶	sic
+磶	siec
 𧱲	xioy
 戲	xye	2%
 戲	xyeh
@@ -21121,7 +21121,7 @@ use_preset_vocabulary: true
 㦦	xec
 闟	xyip
 嚱	xyeh
-𩍆	sic
+𩍆	siec
 𤄎	xec
 霼	xioy
 霼	xiooi
@@ -21928,7 +21928,7 @@ use_preset_vocabulary: true
 猩	seng
 猩	sryang
 惺	seng
-惺	sig
+惺	sieg
 蛵	xeng
 腥	seng
 腥	seq
@@ -21963,21 +21963,21 @@ use_preset_vocabulary: true
 鋞	heng
 鋞	heg
 𤬐	heng
-𩛿	szing
-𢜫	sig
+𩛿	szieng
+𢜫	sieg
 睲	seq
-睲	sig
+睲	sieg
 醒	seng
 醒	seq
 醒	seg
-擤	sig
+擤	sieg
 杏	heag
 幸	haeg
-性	siq
-姓	siq
+性	sieq
+姓	sieq
 荇	heag
 𠂷	haeg
-𣢝	xiq
+𣢝	xieq
 莕	heag
 𡴘	haeg
 倖	haeg
@@ -21990,7 +21990,7 @@ use_preset_vocabulary: true
 緈	heg
 䛭	xeaq
 𧨫	xeaq
-𩈡	xiq
+𩈡	xieq
 興	xiong
 興	xioq
 臖	xioq
@@ -22684,7 +22684,7 @@ use_preset_vocabulary: true
 𥷀	en
 𨣻	iem
 厃	jem
-延	jing	1%
+延	jeng	1%
 延	yen
 延	yenn	2%
 言	qian
@@ -23678,7 +23678,7 @@ use_preset_vocabulary: true
 㑥	yeh
 垼	yuec
 䖊	qiay
-益	ic
+益	iec
 浥	iap
 浥	iip
 浥	aep
@@ -23707,7 +23707,7 @@ use_preset_vocabulary: true
 軼	dhet
 軼	yit
 殔	yih
-晹	shic
+晹	shec
 跇	yey
 跇	tyey
 䇩	yey
@@ -23716,7 +23716,7 @@ use_preset_vocabulary: true
 𢽣	kaem
 詍	yey
 𠶷	ioc
-𨜶	ic
+𨜶	iec
 焲	yec
 㴒	yec
 㝣	ey
@@ -23727,7 +23727,7 @@ use_preset_vocabulary: true
 亄	iih
 亄	iit
 𦶂	iip
-𦶩	ic
+𦶩	iec
 㔴	yoc
 䵝	iyh
 𩾘	qiay
@@ -23744,7 +23744,7 @@ use_preset_vocabulary: true
 𢝃	jey
 義	qyeh
 溢	yit
-䘸	jic
+䘸	jec
 䘸	yec
 蓺	qiey
 靾	yey
@@ -23754,7 +23754,7 @@ use_preset_vocabulary: true
 䴬	yoc
 㱲	ieh
 蜴	yec
-膉	ic
+膉	iec
 㥷	ey
 廙	yh
 廙	yoc
@@ -23836,7 +23836,7 @@ use_preset_vocabulary: true
 㽈	qyh
 癔	ioc
 𦔥	yec
-𦔥	shic
+𦔥	shec
 豷	xyuih
 豷	ey
 𠥦	yoc
@@ -23872,7 +23872,7 @@ use_preset_vocabulary: true
 驛	yec
 鷧	iih
 𧅙	qioy
-𪕶	ic
+𪕶	iec
 𪕶	aec
 䰯	qyh
 𧾰	yoc
@@ -23880,7 +23880,7 @@ use_preset_vocabulary: true
 虉	qaec
 鷾	iyh
 齸	yit
-齸	ic
+齸	iec
 乚	ioon
 因	in
 㘻	in
@@ -24067,43 +24067,43 @@ use_preset_vocabulary: true
 嫈	aeng
 嫈	aeq
 賏	iiaq
-賏	ing
+賏	ieng
 霙	iang
 霙	iiang
 罃	aeng
 褮	hueng
 褮	iueng
 褮	aeng
-嬰	ing
+嬰	ieng
 膺	iong
 韺	iiang
 甖	aeng
 𠠜	aeng
 鶧	iiang
-𨟙	ing
-𨟙	ig
+𨟙	ieng
+𨟙	ieg
 䪯	iueng
-攖	ing
-蘡	ing
+攖	ieng
+蘡	ieng
 罌	aeng
 嚶	aeng
 譍	ioq
 瀴	meg
 瀴	eg
 瀴	eaq
-瓔	ing
+瓔	ieng
 櫻	aeng
 譻	aeng
 鶯	aeng
 𧕄	iong
-纓	ing
+纓	ieng
 鷹	iong
 鸎	aeng
 鸚	aeng
 迎	qyang
 迎	qyaq
 盈	yeng
-𣵹	dhyig
+𣵹	dhyeg
 𦳖	hueg
 桯	heng
 桯	teng
@@ -24157,12 +24157,12 @@ use_preset_vocabulary: true
 𩳍	eg
 穎	yueg
 𩘑	iiag
-𦡺	ig
+𦡺	ieg
 巊	eg
 䭘	iiag
-廮	ig
-𣤵	ig
-癭	ig
+廮	ieg
+𣤵	ieg
+癭	ieg
 映	ag
 映	iiaq
 㑞	yoq
@@ -25406,7 +25406,7 @@ use_preset_vocabulary: true
 𠟭	zoc
 幘	draec
 㣱	jraec
-嫧	tsic
+嫧	tsiec
 嫧	traec
 嫧	draec
 樍	zec
@@ -25859,7 +25859,7 @@ use_preset_vocabulary: true
 𣠞	chep
 𣠞	jep
 𪐏	dyeac
-𪐏	dyic
+𪐏	dyec
 讋	jep
 襵	jep
 襵	dyep
@@ -25873,7 +25873,7 @@ use_preset_vocabulary: true
 柘	jyah
 𦯍	dyep
 這	jyaa	1%
-這	jic	98%
+這	jec	98%
 這	qyenn	1%
 浙	jet
 䏳	jet
@@ -25883,7 +25883,7 @@ use_preset_vocabulary: true
 樜	shoh
 蟅	jyah
 䗪	jyah
-䗪	jic
+䗪	jec
 鷓	jyah
 着	dhyac
 着	dyac
@@ -25891,7 +25891,7 @@ use_preset_vocabulary: true
 珍	dyin
 枮	siem
 枮	dyim
-貞	dying
+貞	dyeng
 胗	jiin
 胗	ciin
 真	jin
@@ -25905,24 +25905,24 @@ use_preset_vocabulary: true
 桭	zhin
 㲀	jin
 㲀	jryn
-偵	tying
-偵	tyiq
+偵	tyeng
+偵	tyeq
 偵	dyeaq
 𣓀	dryn
 𣓀	dryyn
 葴	jim
-遉	tyiq
+遉	tyeq
 湞	dhyaeng
-湞	dying
+湞	dyeng
 搸	dryn
 蓁	dryn
 斟	chip
 斟	jim
 蒖	jin
-楨	dying
+楨	dyeng
 甄	jin
 甄	cien
-禎	dying
+禎	dyeng
 瑧	zin
 榛	dryn
 槇	jiin
@@ -26025,36 +26025,36 @@ use_preset_vocabulary: true
 䳲	jinn
 黮	dhoom
 黮	toom
-佂	jing
-𨒌	jing
-征	jing
+佂	jeng
+𨒌	jeng
+征	jeng
 爭	draeng
-怔	jing
+怔	jeng
 埩	draeng
 埩	jraeng
 𦱊	jraeng
 䒱	jong
-𦙫	jing
-眐	jing
+𦙫	jeng
+眐	jeng
 𦚦	jong
-𧘿	jing
+𧘿	jeng
 烝	jong
 烝	joq
 掙	draeng
 掙	draeq
-𨜓	dhying
-𨜓	dying
+𨜓	dhyeng
+𨜓	dyeng
 崝	jraeng
 崢	jreang
 崢	jraeng
 猙	draeng
-猙	dzig
-𨺟	dying
-䋊	jing
+猙	dzieg
+𨺟	dyeng
+䋊	jeng
 䋫	draeng
 蒸	jong
-睜	dzig
-鉦	jing
+睜	dzieg
+鉦	jeng
 𩫿	jreang
 䕄	jong
 箏	draeng
@@ -26066,7 +26066,7 @@ use_preset_vocabulary: true
 𨟃	dyong
 䱢	draeng
 䆸	dyaeng
-𨢹	jing
+𨢹	jeng
 𠑅	dyaeng
 癥	dyong
 𩘽	dyeang
@@ -26078,20 +26078,20 @@ use_preset_vocabulary: true
 𨋬	jog
 𨋬	zhong
 撜	jog
-整	jig
-正	jing	2%
-正	jiq
-政	jiq
-症	jiq
+整	jeg
+正	jeng	2%
+正	jeq
+政	jeq
+症	jeq
 症	dyong
 幀	dyeaq
-証	jiq
+証	jeq
 䂻	dhyeaq
 諍	draeq
-鄭	dhyiq
-鴊	jing
-鴊	jiq
-㽀	dhyiq
+鄭	dhyeq
+鴊	jeng
+鴊	jeq
+㽀	dhyeq
 𥊼	dhyeaq
 證	joq
 㡧	dyeaq
@@ -26123,7 +26123,7 @@ use_preset_vocabulary: true
 祗	ji
 𢻈	jeh
 秪	dyi
-隻	jic
+隻	jec
 脂	ji
 㩼	je
 㩼	jeh
@@ -26132,7 +26132,7 @@ use_preset_vocabulary: true
 䓜	ji
 梔	je
 𨈛	je
-䞠	jic
+䞠	jec
 䧴	je
 䧴	sheh
 臸	jy
@@ -26179,14 +26179,14 @@ use_preset_vocabulary: true
 植	dhyh
 植	zhoc
 殖	zhoc
-跖	jic
+跖	jec
 犆	dhyoc
 䐈	joc
 䐈	dhyoc
 瓡	jip
 稙	dyoc
-墌	jic
-摭	jic
+墌	jec
+摭	jec
 𩢏	dyip
 漐	tyip
 慹	jep
@@ -26203,16 +26203,16 @@ use_preset_vocabulary: true
 𧽮	dhyit
 職	joc
 𡂣	dyip
-蹠	jic
-蹢	dhyic
+蹠	jec
+蹢	dhyec
 蹢	dec
 蟙	joc
 軄	joc
 𪗨	jryt
-𧓸	dhyic
-躑	dhyic
+𧓸	dhyec
+躑	dhyec
 䵂	dhec
-䵂	dhyic
+䵂	dhyec
 夂	dyii
 止	jyy
 旨	jii
@@ -26267,7 +26267,7 @@ use_preset_vocabulary: true
 帙	dhyit
 制	jey
 炙	jyah
-炙	jic
+炙	jec
 治	dhy
 治	dhyh
 治	dhyih	2%
@@ -26377,7 +26377,7 @@ use_preset_vocabulary: true
 質	jit
 質	dyih	50%
 膣	dyit
-潪	dhyic
+潪	dhyec
 潪	dyeh
 駤	dyih
 䭁	jey
@@ -26394,8 +26394,8 @@ use_preset_vocabulary: true
 瀄	dryt
 緻	dhyih
 𦃘	dhyih
-擿	dhyic
-擲	dhyic
+擿	dhyec
+擲	dhyec
 櫛	dryt
 䞃	dyih
 螲	dyit
@@ -27472,7 +27472,7 @@ use_preset_vocabulary: true
 袏	zah
 做	zuh
 葃	dzac
-葃	dzic
+葃	dziec
 葃	jraec
 酢	dzac
 酢	tsuh
@@ -27549,7 +27549,7 @@ use_preset_vocabulary: true
 暴露	bhooc luh
 暴徒	bhaw dhu
 暴雨	bhaw hiuu
-暴政	bhaw jiq
+暴政	bhaw jeq
 暴走	bhaw zoou
 北燕	boc en
 背棄	bhuoy kih
@@ -27570,7 +27570,7 @@ use_preset_vocabulary: true
 變易	byenn yec
 變徵	byenn dyy
 標識	bieu jyh
-并州	bing jou
+并州	bieng jou
 並行	bheg heang
 不悖	biut bhuot
 不錯	biut tsac
@@ -27603,7 +27603,7 @@ use_preset_vocabulary: true
 藏族	dzaq dzooc
 操持	tsaw dhy
 操行	tsaw heaq
-操姓	tsaw siq
+操姓	tsaw sieq
 操作	tsau zac
 曹參	dzau tsom
 曹操	dzau tsaw
@@ -27611,7 +27611,7 @@ use_preset_vocabulary: true
 㠁嵯	trim tre
 曾參	zong srim
 曾經	dzong ceng
-曾姓	zong siq
+曾姓	zong sieq
 茶几	dhyea cyii
 差別	trea byet
 差池	tre dhye
@@ -27625,10 +27625,10 @@ use_preset_vocabulary: true
 長興	dhyang xiong
 長幼	dyag iiow
 長子	dyag zyy
-朝請	dhyeu dziq
+朝請	dhyeu dzieq
 朝鮮	dyeu sien
 丞相	zhong siaq
-尺度	chic dhuh
+尺度	chec dhuh
 充分	choong bhiunn
 充值	choong dhyoc
 出差	chuit traei
@@ -27706,10 +27706,10 @@ use_preset_vocabulary: true
 調解	dheu caae
 調理	dheu lyy
 調琴	dheu gyim
-調情	dheu dzing
-調性	dhew siq
+調情	dheu dzieng
+調性	dhew sieq
 調音	dheu iim
-調整	dheu jig
+調整	dheu jeg
 調值	dhew dhyoc
 喋血	dep xuet
 丁丁	deng deng
@@ -27736,7 +27736,7 @@ use_preset_vocabulary: true
 芳菲	piuang piuoi
 菲薄	piuooi bhac
 費縣	byih huenn
-費姓	bhiuoy siq
+費姓	bhiuoy sieq
 分别	biun byet
 分行	biun hang
 分子	bhiunn zyy
@@ -27820,7 +27820,7 @@ use_preset_vocabulary: true
 行騙	heang pienn
 行乞	heang kiot
 行竊	heang tset
-行情	hang dzing
+行情	hang dzieng
 行權	heang gyuen
 行人	heang rin
 行善	heang zheen
@@ -27845,13 +27845,13 @@ use_preset_vocabulary: true
 行雲	heang hiun
 行在	heang dzoy
 行者	heang jyaa
-行政	heang jiq
+行政	heang jeq
 行裝	heang drang
 行蹤	heang ziung
 行走	heang zoou
 好處	xaau choh
 号角	haw ceoc
-号令	haw liq
+号令	haw lieq
 号碼	haw meaa
 号召	haw dhyew
 欱酒	xop zioou
@@ -27884,7 +27884,7 @@ use_preset_vocabulary: true
 火圈	xuaa kyuen
 稽攷	cei kaau
 稽首	keei shoou
-積分	zic biun
+積分	ziec biun
 即使	zioc sryy
 亟待	cioc dhooi
 幾乎	cioi hu
@@ -27902,7 +27902,7 @@ use_preset_vocabulary: true
 監利	ceamm lih
 簡易	caaen yeh
 將進酒	tsiang zinn zioou
-將領	ziaq lig
+將領	ziaq lieg
 將帥	ziaq sruih
 降兵	heong byang
 降伏	heong bhiooc
@@ -27911,7 +27911,7 @@ use_preset_vocabulary: true
 交易	ceau yec
 交質	ceau dyih
 教長	ceaw dyag
-教程	ceaw dhying
+教程	ceaw dhyeng
 教的	ceau dec
 教會	ceau huay
 教會	ceaw huay
@@ -27979,9 +27979,9 @@ use_preset_vocabulary: true
 莽蒼	mag tsag
 貿易	mow yec
 面相	mienn siaq
-名將	ming ziaq
-名勝	ming shoq
-命令	myaq liq
+名將	mieng ziaq
+名勝	mieng shoq
+命令	myaq lieq
 靺鞨	muat hat
 某種	moou jug
 母校	moou heaw
@@ -28030,9 +28030,9 @@ use_preset_vocabulary: true
 青藏	tseng dzaq
 青少	tseng shew
 青少年	tseng shew nen
-清華	tsing hoa
-情調	dzing dhew
-秋請	tsiou dziq
+清華	tsieng hoa
+情調	dzieng dhew
+秋請	tsiou dzieq
 區別	kiu byet
 曲調	kiuc dhew
 圈地	kyuen dhih
@@ -28062,14 +28062,14 @@ use_preset_vocabulary: true
 少有	sheeu hioou
 身分	shin bhiunn
 審時度勢	shiim zhy dhac shey
-聲調	shing dhew
+聲調	sheng dhew
 省略	sryag liac
 勝地	shoq dhih
 勝利	shoq lih
 勝券	shoq kiuann
 勝任	shong rimm
 勝仗	shoq dhyaq
-聖上	shiq zhaq
+聖上	sheq zhaq
 施于	yeh hiu
 十年樹木	zhip nen zhuu mooc
 食其	yh cy
@@ -28162,7 +28162,7 @@ use_preset_vocabulary: true
 相變	siaq byenn
 相簿	siaq bhuu
 相冊	siaq traec
-相城	siaq zhing
+相城	siaq zheng
 相處	siang choo
 相傳	siang dhyuen
 相逢	siang bhiung
@@ -28219,14 +28219,14 @@ use_preset_vocabulary: true
 校醫院	heaw iy hiuenn
 校友	heaw hioou
 校園	heaw hiuan
-校正	ceaw jiq
+校正	ceaw jeq
 校址	heaw jyy
 校準	ceaw juiin
 效率	heaw liuit
 邪惡	szya ac
 邪敎	szya ceaw
 信函	sinn haem
-姓曾	siq zong
+姓曾	sieq zong
 休假	xiou ceah
 休屠	xiou dhyo
 宿舍	siooc shyah
@@ -28235,7 +28235,7 @@ use_preset_vocabulary: true
 咽部	en bhoou
 咽喉	en hou
 咽音	en iim
-延請	yen dziq
+延請	yen dzieq
 厭惡	iemm uh
 燕國	en cuoc
 燕山	en sraen
@@ -28246,7 +28246,7 @@ use_preset_vocabulary: true
 要不	iew biut
 要不然	iew biut ren
 要服	ieu bhiooc
-要請	ieu tsig
+要請	ieu tsieg
 要求	ieu giou
 要事	iew jryh
 要挾	ieu hep
@@ -28259,7 +28259,7 @@ use_preset_vocabulary: true
 一些	it sya
 一種	it jug
 揖揖	tsip tsip
-狋氏	gyuen zing
+狋氏	gyuen zieng
 以爲	yy hiue
 易經	yec ceng
 易容	yec yung
@@ -28272,7 +28272,7 @@ use_preset_vocabulary: true
 應當	iong dang
 應對	ioq duoy
 應爲	iong hiue
-應姓	iong siq
+應姓	iong sieq
 郵遞	hiou dhey
 遊說	you shuey
 有空	hioou kooq
@@ -28294,7 +28294,7 @@ use_preset_vocabulary: true
 樂官	qeoc cuan
 樂觀	lac cuan
 樂句	qeoc ciuh
-樂清	qeoc tsing
+樂清	qeoc tsieng
 樂曲	qeoc kiuc
 樂山	lac sraen
 樂亭	lac dheng
@@ -28315,16 +28315,16 @@ use_preset_vocabulary: true
 召工	zhew coong
 召喚	dhyew xuann
 照相	jew siaq
-這些	jic sya
+這些	jec sya
 着裝	dyac drang
-針刺	jim tsic
+針刺	jim tsiec
 眞相	jin siaq
 蒸乾	jong can
-正好	jiq xaau
-正朔	jing sreoc
-正月	jing qiuat
-正在	jiq dzooi
-政治	jiq dhyh
+正好	jeq xaau
+正朔	jeng sreoc
+正月	jeng qiuat
+正在	jeq dzooi
+政治	jeq dhyh
 支援	je hiuenn
 只讀	jee dhooc
 知識分子	dye shoc bhiunn zyy
@@ -28348,7 +28348,7 @@ use_preset_vocabulary: true
 種馬	jug meaa
 種樹	juq zhuh
 種田	juq dhen
-種姓	jug siq
+種姓	jug sieq
 種植	juq zhoc
 種豬	jug dyo
 種子	jug zyy
@@ -28377,8 +28377,8 @@ use_preset_vocabulary: true
 住宿	dhyuh siooc
 注疏	juh sroh
 注重	juh dhyug
-著名	dyoh ming
-轉成	dyueen zhing
+著名	dyoh mieng
+轉成	dyueen zheng
 轉發	dyueen biuat
 轉告	dyueen caw
 轉換	dyueen huann
