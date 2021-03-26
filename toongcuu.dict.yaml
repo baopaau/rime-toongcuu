@@ -28,7 +28,7 @@
 
 ---
 name: toongcuu
-version: "0.2"
+version: "0.3"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -241,7 +241,7 @@ use_preset_vocabulary: true
 磝	qeau
 聱	qau
 聱	qeau
-聱	qyiu
+聱	qyou
 螯	qau
 𦪈	qau
 翱	qau
@@ -1065,10 +1065,10 @@ use_preset_vocabulary: true
 辯	bhyeen
 變	byenn
 髟	bieu
-髟	byiu
+髟	byou
 髟	sream
-彪	byiu
-淲	bhyiu
+彪	byou
+淲	bhyou
 𦳤	bhyeeu
 猋	bieu
 摽	bhieeu
@@ -1095,7 +1095,7 @@ use_preset_vocabulary: true
 藨	byeu
 𤐫	pieu
 𣄠	bieu
-瀌	bhyiu
+瀌	bhyou
 瀌	byeu
 贆	bieu
 爂	bieu
@@ -1111,7 +1111,7 @@ use_preset_vocabulary: true
 䮽	looc
 𩽁	byeu
 驫	bieu
-驫	byiu
+驫	byou
 嫑	biew
 表	byeeu
 𧘝	byeeu
@@ -4081,9 +4081,9 @@ use_preset_vocabulary: true
 錠	dheq
 錠	deq
 顁	deq
-丟	diiu
-丢	diiu
-銩	diiu
+丟	diiou
+丢	diiou
+銩	diiou
 冬	dung
 苳	dung
 東	doong
@@ -4262,7 +4262,7 @@ use_preset_vocabulary: true
 韇	dhooc
 黷	dhooc
 讟	dhooc
-厾	diiu
+厾	diiou
 堵	jyaa	1%
 堵	duu	99%
 帾	duu
@@ -8941,7 +8941,7 @@ use_preset_vocabulary: true
 㽲	xioou
 㽱	ciou
 㽱	ceaau
-㽱	cyiu
+㽱	cyou
 佼	heaau
 佼	ceau
 佼	ceaau
@@ -9515,15 +9515,15 @@ use_preset_vocabulary: true
 顈	kueg
 丩	ciou
 勼	ciou
-𠃚	cyiu
+𠃚	cyou
 𠠳	ciou
 朻	ciou
-朻	cyiu
-朻	cyiiu
+朻	cyou
+朻	cyoou
 究	ciow
-糾	cyiiu
-赳	cyiiu
-𦭺	cyiu
+糾	cyoou
+赳	cyoou
+𦭺	cyou
 䡂	ciou
 揪	ziou
 揂	ziou
@@ -9532,7 +9532,7 @@ use_preset_vocabulary: true
 鳩	ciou
 摎	ceau
 摎	liou
-樛	cyiu
+樛	cyou
 𠿈	dreau
 𠿈	drou
 𩭓	ziou
@@ -9540,9 +9540,9 @@ use_preset_vocabulary: true
 𣟼	tsieu
 𣟼	ziou
 𨷺	ciou
-𨷺	cyiiu
+𨷺	cyoou
 鬮	ciou
-鬮	cyiiu
+鬮	cyoou
 九	cioou
 久	cioou
 𡚮	cioou
@@ -9562,7 +9562,7 @@ use_preset_vocabulary: true
 咎	cau	1%
 疚	ciow
 柩	giow
-𧾻	gyiw
+𧾻	gyow
 桕	gioou
 倃	gioou
 倃	cau
@@ -9866,7 +9866,7 @@ use_preset_vocabulary: true
 𤎱	ziueen
 㷷	ziue
 𧕣	ziueen
-㢧	cyiu
+㢧	cyou
 劵	kiuann
 帣	cyuenn
 弮	kyuen
@@ -11831,9 +11831,9 @@ use_preset_vocabulary: true
 廖	liow
 瞭	leu
 瞭	leeu
-蟉	gyiu
-蟉	gyiiu
-蟉	lyiu
+蟉	gyou
+蟉	gyoou
+蟉	lyou
 𦌒	lew
 鐐	leu
 鐐	lew
@@ -12168,7 +12168,7 @@ use_preset_vocabulary: true
 懰	liou
 懰	lioou
 鏐	liou
-鏐	lyiu
+鏐	lyou
 飀	liou
 騮	liou
 𪕚	liou
@@ -12205,10 +12205,10 @@ use_preset_vocabulary: true
 飂	liou
 飂	liow
 㽌	liow
-鷚	gyiu
+鷚	gyou
 鷚	liow
 鷚	miou
-鷚	myiu
+鷚	myou
 㚅	lioong
 𤵸	peong
 𧙥	loong
@@ -13480,8 +13480,8 @@ use_preset_vocabulary: true
 廟	myew
 繆	miou
 繆	miooc
-繆	myiu
-繆	myiw
+繆	myou
+繆	myow
 咩	mya
 咩	miee
 𡶫	qet
@@ -13617,7 +13617,7 @@ use_preset_vocabulary: true
 命	myaq
 詺	miq
 䒌	meq
-謬	myiw
+謬	myow
 摸	mac
 摸	mu
 𠻚	mu
@@ -13730,7 +13730,7 @@ use_preset_vocabulary: true
 眸	miou
 蛑	miou
 䋷	miou
-䋷	myiu
+䋷	myou
 謀	miou
 麰	miou
 瞴	miu
@@ -14752,7 +14752,7 @@ use_preset_vocabulary: true
 棚	bheang
 棚	bhaeng
 𩖛	bhoong
-𩖛	bhyiu
+𩖛	bhyou
 𧚋	bhoong
 搒	bheang
 搒	baq
@@ -15652,7 +15652,7 @@ use_preset_vocabulary: true
 䨐	haep
 䁍	kaep
 䯊	ka
-??	keah
+𧩶	keah
 髂	keah
 𩩱	keah
 𩮁	kaet
@@ -16319,14 +16319,14 @@ use_preset_vocabulary: true
 汓	sziou
 𦬖	giou
 求	giou
-虯	gyiu
+虯	gyou
 泅	sziou
 䊵	giou
 䣇	giou
 俅	giou
 釓	caet
 䜪	giou
-觓	gyiu
+觓	gyou
 訄	giou
 訄	kau
 訄	kiou
@@ -16343,7 +16343,7 @@ use_preset_vocabulary: true
 梂	giou
 殏	giou
 毬	giou
-𤙠	gyiu
+𤙠	gyou
 崷	dziou
 𢛃	giou
 𢛃	gioou
@@ -16360,9 +16360,9 @@ use_preset_vocabulary: true
 巰	giou
 賕	giou
 䟵	giou
-觩	gyiu
+觩	gyou
 璆	giou
-璆	gyiu
+璆	gyou
 䎿	ziou
 䎿	dziou
 蝤	ziou
@@ -16377,7 +16377,7 @@ use_preset_vocabulary: true
 𧒔	giou
 糗	kioou
 䠗	xiooq
-䠗	kyiw
+䠗	kyow
 𪖛	kiow
 匤	kiuc
 佉	kia
@@ -17170,7 +17170,7 @@ use_preset_vocabulary: true
 𥮚	sann
 犙	som
 犙	srou
-犙	sryiu
+犙	sryou
 毿	som
 鬖	sam
 㧲	soom
@@ -22028,7 +22028,7 @@ use_preset_vocabulary: true
 修	siou
 㹯	xiou
 庥	xiou
-烋	xyiu
+烋	xyou
 脩	siou
 羞	siou
 脙	giou
@@ -22050,7 +22050,7 @@ use_preset_vocabulary: true
 䰍	tsih
 䰍	xiou
 𩯭	binn
-飍	xyiu
+飍	xyou
 苬	sziou
 朽	xioou
 㱙	xioou
@@ -23199,7 +23199,7 @@ use_preset_vocabulary: true
 𡧮	eu
 𡧮	eeu
 眑	eau
-眑	iiiu
+眑	iioou
 𦥝	yeeu
 𦥝	you
 舀	yeeu
@@ -24256,24 +24256,24 @@ use_preset_vocabulary: true
 醟	xiueq
 醟	hyuaq
 𢆶	iou
-𢆶	iiu
+𢆶	iiou
 攸	you
 忧	hiow
-呦	iiu
-泑	iiu
-泑	iiiu
+呦	iiou
+泑	iiou
+泑	iioou
 怮	eu
 怮	iou
-怮	iiu
-怮	iiiu
-幽	iiu
+怮	iiou
+怮	iioou
+幽	iiou
 𣢜	iooc
-𣢜	iiu
-𣢜	iiiu
+𣢜	iiou
+𣢜	iioou
 悠	you
 麀	iou
 憂	iou
-𧍘	iiu
+𧍘	iiou
 鄾	iou
 優	iou
 𧀥	iou
@@ -24367,7 +24367,7 @@ use_preset_vocabulary: true
 𣣸	yoou
 銪	hioou
 䬀	ioou
-䬀	iiiu
+䬀	iioou
 𤍕	yow
 槱	yow
 槱	yoou
@@ -24377,7 +24377,7 @@ use_preset_vocabulary: true
 䳑	hioou
 𣤦	yew
 黝	i
-黝	iiiu
+黝	iioou
 𦏇	yoou
 𨣆	yoou
 𤪎	yew
@@ -24386,7 +24386,7 @@ use_preset_vocabulary: true
 又	hiow
 右	hiow	5%
 右	hioou
-幼	iiw
+幼	iiow
 佑	hiow
 𤴨	hiow
 侑	hiow
@@ -24406,7 +24406,7 @@ use_preset_vocabulary: true
 梎	eau
 䀁	hiow
 䀁	hioou
-蚴	iiiu
+蚴	iioou
 痏	hiuii
 㕗	yoou
 𦳩	hiow
@@ -27085,7 +27085,7 @@ use_preset_vocabulary: true
 鈭	tsie
 鈭	zie
 稵	zy
-稵	zyiu
+稵	zyou
 緇	dry
 鼒	zy
 鼒	dzoi
@@ -27623,7 +27623,7 @@ use_preset_vocabulary: true
 長假	dhyang ceah
 長孫	dyag suon
 長興	dhyang xiong
-長幼	dyag iiw
+長幼	dyag iiow
 長子	dyag zyy
 朝請	dhyeu dziq
 朝鮮	dyeu sien
