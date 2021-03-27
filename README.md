@@ -182,146 +182,121 @@
 
 ### 注音示例
 
-**Tset-hiunn Szioo** (Liooc Biuap-qian)
-
-**切韻序**（陸法言）
+#### **Tset-hiunn Szioo** (Liooc Biuap-qian)</br>**切韻序**（陸法言）
 
 
-Siec koi huang tro, hioou Liou Qye-dhoong (Dryn), Qean Quay-sryy (Jy-tuoi), Lu Miuu-yang (Sy-dhaau), Lyy Zhang-zhyh (Rac), Seu Cuoc-zyy (Coi), Sin Zi-qyeh (Doc-qiuan) Siet Lyh-bhuu (Dhaau-heang), Qiuoy Dyoh-zac (Qyenn-uen) dog baet rin dhoong qey Biuap-qian muon siooc.
-
-昔開皇初，有劉儀同[臻]、顏外史[之推]、盧武陽[思道]、李常侍[若]、蕭國子[該]、辛咨議[德源]、薛吏部[道衡]、魏著作[彥淵]等八人同詣法言門宿。
+siec koi huang tro, hioou Liou Qye-dhoong (Dryn), Qean Quay-sryy (Jy-tuoi), Lu Miuu-yang (Sy-dhaau), Lyy Zhang-zhyh (Rac), Seu Cuoc-zyy (Coi), Sin Zi-qyeh (Doc-qiuan) Siet Lyh-bhuu (Dhaau-heang), Qiuoy Dyoh-zac (Qyenn-uen) dog baet rin dhoong qey Biuap-qian muon siooc.
+</br>昔開皇初，有劉儀同［臻］、顏外史［之推］、盧武陽［思道］、李常侍［若］、蕭國子［該］、辛咨議［德源］、薛吏部［道衡］、魏著作［彥淵］等八人同詣法言門宿。
 
 
 
-Yah hyuag zioou lan, luon gyip iim hiunn.
-
-夜永酒闌，論及音韻。
-
+yah hyuag zioou lan, luon gyip iim hiunn.
+</br>夜永酒闌，論及音韻。
 
 
-Yy cuu cyim sheng dhew cioy dzih hioou bhyet, jo cea tsiuu shyaa yec bhiow biut dhoong.
 
-以古今聲調旣自有别，諸家取捨亦復不同。
+yy cuu cyim sheng dhew cioy dzih hioou bhyet, jo cea tsiuu shyaa yec bhiow biut dhoong.
+</br>以古今聲調旣自有别，諸家取捨亦復不同。
 
 
 
 Qu Troo zoc zhy shang kieng tsieen, En dhyeeu zoc da zhep dhyug dhyeoc; Dzin liug zoc kioh sheng hiue rip, Liang iec zoc bhyang sheng szyy kioh.
-
-吳楚則時傷輕淺，燕趙則多涉重濁；秦隴則去聲爲入，梁益則平聲似去。
-
-
-
-Hiow JE (JANG YE biuaan), JI (JII YI biuaan), QIO (QIOO CIO biuaan), QIU (QIOO CIU biuaan) giuq hiue it hiunn, SEN (SU DZEN biuaan), SIEN (SIANG REN biuaan), HIOU (HIU GIOU biuaan), HOU (HU COU biuaan), ciu luon zhee tset.
-
-又支[章移反]、脂[旨夷反]、魚[語居反]、虞[語俱反]共爲一韻，先[蘇前反]、仙[相然反]、尤[于求反]、侯[胡溝反]俱論是切。
+</br>吳楚則時傷輕淺，燕趙則多涉重濁；秦隴則去聲爲入，梁益則平聲似去。
 
 
 
-Yuc cuag miun luh, dzih kaa tsieng dhyeoc caei toong; rac shag dye iim, zioc siu kieng dhyug hioou yh.
-
-欲廣文路，自可淸濁皆通；若賞知音，即須輕重有異。
-
+hiow JE (JANG YE biuaan), JI (JII YI biuaan), QIO (QIOO CIO biuaan), QIU (QIOO CIU biuaan) giuq hiue it hiunn, SEN (SU DZEN biuaan), SIEN (SIANG REN biuaan), HIOU (HIU GIOU biuaan), HOU (HU COU biuaan), ciu luon zhee tset.
+</br>又支［章移反］、脂［旨夷反］、魚［語居反］、虞［語俱反］共爲一韻，先［蘇前反］、仙［相然反］、尤［于求反］、侯［胡溝反］俱論是切。
 
 
-Lioo Dzieg *Hiunn Dzip*, Heaa Hou-hyuaq *Hiunn Liac*, Yang Xiou-jy *Hiunn Liac*, Lyy Ciuih-zet *Iim Buu*, Dhuu Dhoi-kyang *Hiunn Liac* dog cac hioou coei huh.
 
-吕靜《韻集》、夏侯詠《韻略》、陽休之《韻略》、李季節《音譜》、杜臺卿《韻略》等各有乖互。
+yuc cuag miun luh, dzih kaa tsieng dhyeoc caei toong; rac shag dye iim, zioc siu kieng dhyug hioou yh.
+</br>欲廣文路，自可淸濁皆通；若賞知音，即須輕重有異。
+
+
+
+Lioo Dzieg »Hiunn Dzip«, Heaa Hou-hyuaq »Hiunn Liac«, Yang Xiou-jy »Hiunn Liac«, Lyy Ciuih-zet »Iim Buu«, Dhuu Dhoi-kyang »Hiunn Liac« dog cac hioou coei huh.
+</br>吕靜《韻集》、夏侯詠《韻略》、陽休之《韻略》、李季節《音譜》、杜臺卿《韻略》等各有乖互。
 
 
 
 Ceong-doong tsiuu hiunn yoo Ha-boc bhiow zhu.
-
-江東取韻與河北復殊。
-
+</br>江東取韻與河北復殊。
 
 
-In luon nom boc zhee biuoi, cuu cyim toong soc, yuc ceaq ciunn siueen zieng tset, dhyo siac sro huaan.
 
-因論南北是非，古今通塞，欲更捃選精切，除削踈緩。
+in luon nom boc zhee biuoi, cuu cyim toong soc, yuc ceaq ciunn siueen zieng tset, dhyo siac sro huaan.
+</br>因論南北是非，古今通塞，欲更捃選精切，除削踈緩。
 
 
 
 Qean Quay-sryy, Seu Cuoc-zyy da sroo cuet dheq.
-
-顏外史、蕭國子多所決定。
+</br>顏外史、蕭國子多所決定。
 
 
 
 Qiuoy Dyoh-zac hiuoy Biuap-qian hiuat: “Xiaq loi luonn nann, qy choh sit dziin, ha hiueh biut sziue koou cyh jy! Qaa buoy sruh rin, dheq zoc dheq hyy.”
-
-魏著作謂法言曰：「向來論難，疑處悉盡，何爲不隨口記之！我輩數人，定則定矣。」
+</br>魏著作謂法言曰：「向來論難，疑處悉盡，何爲不隨口記之！我輩數人，定則定矣。」
 
 
 
 Biuap-qian zioc juc heaa eoc byit, liac cyh cang cyy.
-
-法言即燭下握筆，略記綱紀。
-
-
-
-Hoou bac miunn iiang bhyeen, dhooi doc zieng hoa.
-
-後博問英辯，殆得精華。
+</br>法言即燭下握筆，略記綱紀。
 
 
 
-Io zhee ceaq zhep yo heoc, cem dziung bhac hoann, zhip sruh nen caen, biut huang siou dzip.
-
-於是更涉餘學，兼從薄宦，十數年閒，不遑修集。
-
-
-
-Cyim biuaan tro bhiooc, si xiunn jo dheei zyy, bhiuam hioou miun zaau, zioc siu sheng hiunn.
-
-今返初服，私訓諸弟子，凡有文藻，即須聲韻。
+hoou bac miunn iiang bhyeen, dhooi doc zieng hoa.
+</br>後博問英辯，殆得精華。
 
 
 
-Bieg cio sraen yaa, ceau you droo dziuet, qy huoc jy sroo, jit miunn miu dziung.
-
-屏居山野，交游阻絕，疑或之所，質問無從。
-
-
-
-Miuang jyaa zoc sreang sii luh zhu, koong hoei kaa zac jy tann; dzuon jyaa zoc ciuoy dzienn leei caec, yy baw dziuet ceau jy jii.
-
-亡者則生死路殊，空懷可作之歎；存者則貴賤禮隔，以報絕交之旨。
+io zhee ceaq zhep yo heoc, cem dziung bhac hoann, zhip sruh nen caen, biut huang siou dzip.
+</br>於是更涉餘學，兼從薄宦，十數年閒，不遑修集。
 
 
 
-Sziuih tsiuu jo cea iim hiunn, cuu cyim dzyh sho, yy dzen sroo cyh jyaa, dheq jy hiue *Tset Hiunn* quu cyuenn.
-
-遂取諸家音韻，古今字書，以前所記者，定之爲《切韻》五卷。
-
-
-
-Poou sec hau ly, biun bhyet shoo liuee.
-
-剖析毫氂，分别黍累。
+cyim biuaan tro bhiooc, si xiunn jo dheei zyy, bhiuam hioou miun zaau, zioc siu sheng hiunn.
+</br>今返初服，私訓諸弟子，凡有文藻，即須聲韻。
 
 
 
-Ha bhiuan kyip qiuc, miuoy kaa huen cyim.
-
-何煩泣玉，未可縣金。
-
-
-
-Dzang jy mieng sraen, siec coey Meaa Tsien jy qian dhay, dhy yy cay ziaq, cyim tann Yang Hioong jy koou ciot.
-
-藏之名山，昔怪馬遷之言大；持以蓋醬，今歎楊雄之口吃。
+bieg cio sraen yaa, ceau you droo dziuet, qy huoc jy sroo, jit miunn miu dziung.
+</br>屏居山野，交游阻絕，疑或之所，質問無從。
 
 
 
-Biuoi zhee sieeu zyy juen dyep, nooi djuit giun hen yui iyh, neng caam she heang rin shey? Dhyoc yuc biut chuit huu dheng.
-
-非是小子專輒，乃述羣賢遺意，寧敢施行人丗？直欲不出戸庭。
-
+miuang jyaa zoc sreang sii luh zhu, koong hoei kaa zac jy tann; dzuon jyaa zoc ciuoy dzienn leei caec, yy baw dziuet ceau jy jii.
+</br>亡者則生死路殊，空懷可作之歎；存者則貴賤禮隔，以報絕交之旨。
 
 
-Hiu zhy siuey tsih sin yoou, Dhay Sziue Rin Zhoou qiuan nen yaa.
 
-于時歳次辛酉，大隋仁壽元年也。
+sziuih tsiuu jo cea iim hiunn, cuu cyim dzyh sho, yy dzen sroo cyh jyaa, dheq jy hiue »Tset Hiunn« quu cyuenn.
+</br>遂取諸家音韻，古今字書，以前所記者，定之爲《切韻》五卷。
+
+
+
+poou sec hau ly, biun bhyet shoo liuee.
+</br>剖析毫氂，分别黍累。
+
+
+
+ha bhiuan kyip qiuc, miuoy kaa huen cyim.
+</br>何煩泣玉，未可縣金。
+
+
+
+dzang jy mieng sraen, siec coey Meaa Tsien jy qian dhay, dhy yy cay ziaq, cyim tann Yang Hioong jy koou ciot.
+</br>藏之名山，昔怪馬遷之言大；持以蓋醬，今歎楊雄之口吃。
+
+
+
+biuoi zhee sieeu zyy juen dyep, nooi djuit giun hen yui iyh, neng caam she heang rin shey? Dhyoc yuc biut chuit huu dheng.
+</br>非是小子專輒，乃述羣賢遺意，寧敢施行人丗？直欲不出戸庭。
+
+
+
+hiu zhy siuey tsih sin yoou, Dhay Sziue Rin Zhoou qiuan nen yaa.
+</br>于時歳次辛酉，大隋仁壽元年也。
 
 
 ## 鳴謝
