@@ -66,9 +66,9 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    # 替代云母三等合口
+    # 替代云母合口 
     - derive/^h[yi]u([^uhnm])/w$1/
-    # 輕脣非組聲母替代
+    # 非組代替幫組
     - derive/^[bp]iu?([ao])/f$1/
     - derive/^bhiu?([ao])/fv$1/
     - derive/^miu?([ao])/v$1/
@@ -83,12 +83,8 @@ speller:
     #- derive/([aoeui])[gq]$/$1ng/
 
     # 簡拼
-    #- abbrev/^([aoeuiy]).+$/$1/
-    #- abbrev/^([cszbd]?h|[dtjsz]?r|[dtn]h?y|[ds]?z|t?s|d?j|fv|[bpmdtnlckgqxyfvw])[aoeuiy].+$/$1/
-    - abbrev/^([cszbd]h|[dtjsz]r|[dtn]h?y|[ds]z|ts|dj|fv).+$/$1/
-    - abbrev/^([a-z])[^hryzsjv].+$/$1/
-    #- abbrev/^([a-z]{2}).+$/$1/
-    #- abbrev/^([a-z]{3}).+$/$1/
+    - abbrev/^([cszb]h|[dtjsz]r|[ds]z|ts|dj|fv).+$/$1/
+    - abbrev/^([a-z])[^hrzsjv].+$/$1/
 
 translator:
   dictionary: toongcuu
